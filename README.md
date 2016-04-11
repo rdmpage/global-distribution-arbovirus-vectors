@@ -1,1 +1,11 @@
 # global-distribution-arbovirus-vectors
+
+Exploring converting data from “The global compendium of Aedes aegypti and Ae. albopictus occurrence” into Darwin Core.
+
+![Map](https://github.com/rdmpage/global-distribution-arbovirus-vectors/raw/master/docs/elife-08347-fig1-figsupp4-v3-480w.jpg)
+
+Kraemer, M. U. G., Sinka, M. E., Duda, K. A., Mylne, A., Shearer, F. M., Brady, O. J., … Hay, S. I. (2015, July 7). The global compendium of Aedes aegypti and Ae. albopictus occurrence. Scientific Data. Nature Publishing Group. http://doi.org/10.1038/sdata.2015.35
+
+Kraemer, Moritz U. G., Sinka, Marianne E., Duda, Kirsten A., Mylne, Adrian, Shearer, Freya M., Brady, Oliver J., … Hay, Simon I. (2015). Data from: The global compendium of Aedes aegypti and Ae. albopictus occurrence. Dryad Digital Repository. http://doi.org/10.5061/dryad.47v3c
+
+Kraemer, M. U., Sinka, M. E., Duda, K. A., Mylne, A. Q., Shearer, F. M., Barker, C. M., … Hay, S. I. (2015, June 30). The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus . eLife. eLife Sciences Organisation, Ltd. http://doi.org/10.7554/elife.08347
