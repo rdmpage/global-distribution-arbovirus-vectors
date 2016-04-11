@@ -2,7 +2,25 @@
 
 Exploring converting data from “The global compendium of Aedes aegypti and Ae. albopictus occurrence” into Darwin Core.
 
+## Database
+
+Figure 1—figure supplement 4.
+The distribution of the occurrence database for Ae. aegypti (A) and Ae. albopictus (B) plotted on the underlying prediction surface.
+DOI: http://dx.doi.org/10.7554/eLife.08347.008
+
 ![Map](https://github.com/rdmpage/global-distribution-arbovirus-vectors/raw/master/docs/elife-08347-fig1-figsupp4-v3-480w.jpg)
+
+
+### GBIF maps
+
+_Aedes aegypti_ http://www.gbif.org/species/1651891
+![Map](https://github.com/rdmpage/global-distribution-arbovirus-vectors/raw/master/docs/1651891.png)
+
+_Aedes albopictus_ http://www.gbif.org/species/1651430
+![Map](https://github.com/rdmpage/global-distribution-arbovirus-vectors/raw/master/docs/1651430.png)
+
+
+## References
 
 Kraemer, M. U. G., Sinka, M. E., Duda, K. A., Mylne, A., Shearer, F. M., Brady, O. J., … Hay, S. I. (2015, July 7). The global compendium of Aedes aegypti and Ae. albopictus occurrence. Scientific Data. Nature Publishing Group. http://doi.org/10.1038/sdata.2015.35
 
