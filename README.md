@@ -37,7 +37,7 @@ Missing from Dryad
 
 Convert PDF to text
 ```
-pdftotext -layout SI.pdf 
+pdftotext -layout -enc “UTF-8” SI.pdf 
 ```
 
 ## References

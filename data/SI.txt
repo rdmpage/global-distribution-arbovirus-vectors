@@ -9,7 +9,7 @@ Seidel B., Technical Office of Ecology and Landscape Assessment, Persenbeug.
 Bulgaria: Mikov O., National Centre of Infectious and Parasitic Diseases, Sofia.
 Croatia: Merdic E., Klobucar A., Department of Biology, University of Osijek.
 Czech Republic: Hubalek Z., Institute of Vertebrate Biology, Brno.
-France: L'Ambert G., Jeannin C. & Perrin Y., Adege, EID M�diterran�e, Montpellier,
+France: L’Ambert G., Jeannin C. & Perrin Y., Adege, EID Méditerranée, Montpellier,
 France
 Germany: Kampen H., Friedrich-Loeffler-Institut, Greifswald - Insel Riems; Kuhn C.,
 Umweltbundesamt (Federal Environment Agency), Berlin; Pluskota B., German mosquito
@@ -18,50 +18,50 @@ Greece: Gewehr S., Ecodevelopment S.A., Thessaloniki; Koliopoulos G., Benaki
 Phytopathological Institute, Laboratory of Biological Control of Pesticide, Kifissia; Voutsina
 N., Centre for Mosquito Abatement and Civic Protection, Prefecture of Serres.
 Italy: Abbona I., ASS n1 Triestina; Albonetti P., AUSL Genova; Alessio A., AUSL Citta di
-Bologna; Albieri A. & Bellini R., CAA, Crevalcore; Angelini P., Servizio di Sanit� Pubblica,
+Bologna; Albieri A. & Bellini R., CAA, Crevalcore; Angelini P., Servizio di Sanità Pubblica,
 Regione Emilia-Romagna, Bologna; Battistini G., AUSL, Parma; Biasci A., Entomox Pisa;
 Baldaccini G., ARPAT Toscana; Cafiero M.A., IZS delle Puglie; Caprioglio A., Regione
 Piemonte; Calzolari M., ISZLER, Reggio Emilia; Carasi S., AUSL, Brescia; Casaletti G.,
 AUSL, Modena; Casarini P., ARPA Lombardia, Pavia; Chiatante A., AUSL, Piacenza; Dalla
 Pozza G., AUSL 16, Venezia; Di Domenicantonio R., Dept. Comune di Roma ; Drago A. &
 Martini S., Entostudio Padova, Universita di Padova; Fabbri C., AUSL Ravenna; Frilli F., Ist.
-Protez. Piante, Universit� di Udine; Gavaudan S., Istituto Zooprofilattico Sperimentale
+Protez. Piante, Universitá di Udine; Gavaudan S., Istituto Zooprofilattico Sperimentale
 Umbria e Marche; Giangaspero A., Universita di Foggia; Giannetto S. & Brianti E.,
-Universita di Messina; Grelloni V., IZS dell'Umbria; Mascali Zeo S., Baldacchini F., AUSL
-Cesena�Massi R, Machiodi G., AUSL Bergamo; Mosca A., Ipla SpA, Torino; Otranto D. &
+Universita di Messina; Grelloni V., IZS dell’Umbria; Mascali Zeo S., Baldacchini F., AUSL
+Cesena¸Massi R, Machiodi G., AUSL Bergamo; Mosca A., Ipla SpA, Torino; Otranto D. &
 Lia R., Universita di Bari; Pinna G., CPAI Cagliari; Raineri V., APAT Genova; Romi R. &
-Severini F., Istituto Superiore di Sanit�, Roma; Scarpellini P. AUSL Forl�; Roiz D., Centro de
+Severini F., Istituto Superiore di Sanità, Roma; Scarpellini P. AUSL Forlí; Roiz D., Centro de
 Ecologia Alpina-Fundazione Edmund Mach, Trento; Talbalaghi A., Mosquito Control
 Piemonte, Alessandria; Tamburro A., Cocchi M., Pontuale G., AUSL 9, Grosseto and
 Regione Toscana; Venturelli C., Dipartimento di Sanita Publica AUSL, Cesena; Zamburlini
 R., Ist. Protez. Piante, Universita di Udine.
 Malta: Gatt P., University of Malta.
-Netherlands: Ib��ez Justicia A. & Scholte E.J., National Centre for Monitoring of Vectors,
+Netherlands: Ibáñez Justicia A. & Scholte E.J., National Centre for Monitoring of Vectors,
 Wageningen.
 Romania: Faculta E. & Prioteasa F.L., National Institute of Research-Development for
 Microbiology and Immunology "Cantacuzino", Bucarest.
 Russia: Sergiev V.P., Martsinovsky Institute of Medical Parasitology and Tropical Medicine,
 Moscow
-Serbia: Petri D., Faculty of Agriculture, Novi Sad.
+Serbia: Petrić D., Faculty of Agriculture, Novi Sad.
 Slovenia: Kalan K., University of Primorska, Koper.
 Spain: Aranda C., Consell Comarcal del Baix Llobregat, Sant Feliu de Llobregat; Bueno-
 Mari R., Cavanilles Institute of Biodiversity and Evolutionary Biology, University of
 Valencia, Paterna; Eritja R., Consell Comarcal del Baix Llobregat, Sant Feliu de Llobregat;
-Escosa R., CODE, Amposta; Lucientes J., Dept. Parasitolog�a, Fac. de Veterinaria, Univ. de
-Zaragoza, Zaragoza; Marqu�s E., Servei de Control dels Mosquits de la Badia de Roses i Baix
+Escosa R., CODE, Amposta; Lucientes J., Dept. Parasitología, Fac. de Veterinaria, Univ. de
+Zaragoza, Zaragoza; Marquès E., Servei de Control dels Mosquits de la Badia de Roses i Baix
 Ter, Castello d'Empuries; Miranda M.A., Universitat de les Illes Balears, Palma de Mallorca;
-S�nchez L�pez P.F., Health and Consumers Department of the Government of La Regi�n de
+Sánchez López P.F., Health and Consumers Department of the Government of La Región de
 Murcia.
 
 
 
-                                                                                           1  
+	                                                                                          1	  
 Switzerland: Flacio E., Istituto Cantonale di Microbiologia, Bellinzona; Schaffner F.,
 Institute of Parasitology, University of Zurich, Zurich, Switzerland
 Turkey: Alten B., Hacettepe University, Ankara.
 
 Table S2: Ae. aegypti references
-  
+	  
 10.    Anonymous, Dengue fever at the U.S.-Mexico border, 1995-1996. MMWR.
        Morbidity and Mortality Weekly Report 45, 841-844 (1996);
 70.    R. Ahmad, A. Ismail, Z. Saat, L. H. Lim, Detection of dengue virus from field Aedes
@@ -113,7 +113,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           2  
+	                                                                                          2	  
          2000: entomologic findings and epidemiologic considerations. Emerging Infectious
          Dieseases 9, 362-367 (2003);
 563.     P. Eamchan, A. Nisalak, H. M. Foy, O. A. Chareonsook, Epidemiology and control
@@ -171,7 +171,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                             3  
+	                                                                                            3	  
 953.    V. Joshi, M. L. Mathur, A. K. Dixit, M. Singhi, Entomological studies in a dengue
         endemic area, Jalore, Rajasthan. Indian Journal of Medical Research 104, 161-165
         (1996);
@@ -229,7 +229,7 @@ Table S2: Ae. aegypti references
         Instituto de Medicina Tropical de Sao Paulo 37, 507-510 (1995);
 
 
-                                                                                           4  
+	                                                                                          4	  
 12207. R. M. Nogueira, H. G. Schatzmayr, M. P. Miagostovich, M. F. Farias, J. D. Farias
        Filho, Virological study of a dengue type 1 epidemic at Rio de Janeiro. Memorias Do
        Instituto Oswaldo Cruz 83, 219-225 (1988);
@@ -287,7 +287,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           5  
+	                                                                                          5	  
 12860. U. Thavara, A. Tawatsin, P. Phan-Urai, W. Ngamsuk, C. Chansang, M. Liu, Z. Li,
        Dengue vector mosquitos at a tourist attraction, Ko Samui, in 1995. Southeast Asian
        Journal of Tropical Medicine and Public Health 27, 160-163 (1996);
@@ -345,7 +345,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         6  
+	                                                                                        6	  
        Comores). March-May 1993]. Annales de la Societe Belge de Medecine Tropicale 74,
        217-229 (1994);
 2232. D. E. Camacho, M. Alvarez, F. Rodriguez-Henriquez, M. de Quintana, M. Soler, A.
@@ -403,7 +403,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          7  
+	                                                                                         7	  
 2673.   E. Quiroz, M. Ortega, M. G. Guzman, S. Vazquez, J. L. Pelegrino, C. Campos, V.
         Bayard, M. Vazquez, G. Kouri, [Dengue in Panama, 1993]. Revista Cubana de
         Medicina Tropical 49, 86-93 (1997);
@@ -461,7 +461,7 @@ Table S2: Ae. aegypti references
 2924.   D. Evans. (PROMED, (Australia), 1995), vol. 1995.
 
 
-                                                                                           8  
+	                                                                                          8	  
 2930.   D. Coder. (PROMED, Caracas, 1997), vol. 1997.
 2942.   V. Cardenas, in IQCB-Biweekly Report of Cases and Outbreaks, C. FETP, Ed.
         (PROMED, (Colombia), 1995), vol. 1995.
@@ -519,13 +519,13 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                            9  
+	                                                                                           9	  
 4806.  V. C. S. Pinheiro, W. P. Tadei, P. M. S. S. Barros, P. F. C. Vasconcelos, A. C. R.
        Cruz, Detection of dengue virus serotype 3 by reverse transcription-polymerase chain
        reaction in Aedes aegypti (Diptera, Culicidae) captured in Manaus, Amazonas.
        Memorias do Instituto Oswaldo Cruz 100, 833-839 (2005);
 4832. H. Rodriguez, F. de la Hoz, Dengue and dengue and vector behaviour in Caqueza,
-       Colombia, 2004. Revista de Salud P�blica (Bogot�, Colombia)(Bogota) 7, 1-15
+       Colombia, 2004. Revista de Salud Pública (Bogotá, Colombia)(Bogota) 7, 1-15
        (2005);
 4850. R. Sithiprasasna, S. Patpoparn, W. Attatippaholkun, S. Suvannadabba, M.
        Srisuphanunt, The geographic information system as an epidemiological tool in the
@@ -577,7 +577,7 @@ Table S2: Ae. aegypti references
        Diseases 11, 48-53 (2005);
 
 
-                                                                                        10  
+	                                                                                       10	  
 5168.    L. J. Souza, J. G. Alves, R. M. Nogueira, C. Gicovate Neto, D. A. Bastos, E. W.
          Siqueira, J. T. Souto Filho, A. Cezario Tde, C. E. Soares, C. Carneiro Rda,
          Aminotransferase changes and acute hepatitis in patients with dengue fever: analysis
@@ -599,7 +599,7 @@ Table S2: Ae. aegypti references
 10711.   E. Akstein, Chromosomes of Aedes Aegypti, and of Some Other Species of
          Mosquitoes. Bulletin of the Research Council of Israel B 11, 146-155 (1962);
 10727.   W. R. Almiron, R. Asis, [Abundance indices of larvae and pupae of Aedes aegypti
-         (Diptera: Culicidae) in Cordoba City]. Revista de la Facultad de Ciencias M�dicas
+         (Diptera: Culicidae) in Cordoba City]. Revista de la Facultad de Ciencias Médicas
          60, 37-41 (2003);
 10734.   M. C. G. P. Alves, N. N. da Silva, [Simplifying the sampling method for evaluating
          the larval density of Aedes aegypti in Brazil]. Revista de Saude Publica 35, 467-473
@@ -635,7 +635,7 @@ Table S2: Ae. aegypti references
          436 (2005);
 
 
-                                                                                          11  
+	                                                                                         11	  
 10760. M. A. Ansari, U. Sreehari, R. K. Razdan, P. K. Mittal, Bioefficacy of Olyset (R) nets
        against mosquitoes in India. Journal of the American Mosquito Control Association
        22, 102-106 (2006);
@@ -672,7 +672,7 @@ Table S2: Ae. aegypti references
        Aegypti in Djakarta, Indonesia. Mosquito News 32, 467-469 (1972);
 10782. G. A. Avila Montes, M. Martinez, C. Sherman, E. Fernandez Cerna, [Evaluation of
        an educational module on dengue and Aedes aegypti for schoolchildren in Honduras].
-       Revista Panamericana de Salud P�blica 16, 84-94 (2004);
+       Revista Panamericana de Salud Pública 16, 84-94 (2004);
 10783. G. Aviles, R. Cecchini, M. E. Harrington, J. Cichero, R. Asis, C. Rios, Aedes aegypti
        in Cordoba Province, Argentina. Journal of the American Mosquito Control
        Association 13, 255-258 (1997);
@@ -693,7 +693,7 @@ Table S2: Ae. aegypti references
        Journal of Communicable Diseases 38, 164-168 (2006);
 
 
-                                                                                           12  
+	                                                                                          12	  
 10796. A. Baly, M. E. Toledo, M. Boelaert, A. Reyes, V. Vanlerberghe, E. Ceballos, M.
        Carvajal, R. Maso, M. La Rosa, O. Denis, P. Van der Stuyft, Cost effectiveness of
        Aedes aegypti control programmes: participatory versus vertical. Transactions of the
@@ -751,7 +751,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          13  
+	                                                                                         13	  
          Orleans, Louisiana, USA, to Organo-Phosphate, Organochlorine, and Pyrethroid
          Insecticides. Journal of Medical Entomology 22, 276-280 (1985);
 10845.   E. B. Beckett, H. Townson, Variability in the Flight Muscles of Field and Laboratory
@@ -809,7 +809,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          14  
+	                                                                                         14	  
 10911. J. E. Bracco, A. L. Dalfabbro, [Single-Larva Sampling for Aedes-Aegypti
        Surveillance]. Revista de Saude Publica 29, 144-146 (1995);
 10914. I. A. Braga, C. Gomes Ade, M. Nelson, C. Mello Rde, D. P. Bergamaschi, J. M. de
@@ -856,7 +856,7 @@ Table S2: Ae. aegypti references
        of Culex (Culex) quinquefasciatus and Aedes (Stegomyia) aegypti with Wuchereria
        bancrofti. Memorias Do Instituto Oswaldo Cruz 93, 855-860 (1998);
 10967. J. Campos, C. F. Andrade, [Larval susceptibility of Aedes aegypti and Culex
-       quinquefasciatus populations to chemical insecticides]. Revista de Sa�de P�blica 37,
+       quinquefasciatus populations to chemical insecticides]. Revista de Saúde Pública 37,
        523-527 (2003);
 10969. D. V. Canyon, J. L. Hii, The Mossie-Buster: a hose-driven insecticide delivery tool
        for the control of container-breeding mosquitoes. Journal of the American Mosquito
@@ -867,14 +867,14 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        15  
+	                                                                                       15	  
 10982. S. Carvalho Mdo, E. D. Caldas, N. Degallier, T. Vilarinhos Pde, L. C. Souza, M. A.
        Yoshizawa, M. B. Knox, C. Oliveira, Susceptibility of Aedes aegypti larvae to the
-       insecticide temephos in the Federal District, Brazil. Revista de Sa�de P�blica 38,
+       insecticide temephos in the Federal District, Brazil. Revista de Saúde Pública 38,
        623-629 (2004);
 10984. T. Castle, M. Amador, S. Rawlins, J. P. Figueroa, P. Reiter, Absence of impact of
        aerial malathion treatment on Aedes aegypti during a dengue outbreak in Kingston,
-       Jamaica. Revista Panamericana de Salud P�blica 5, 100-105 (1999);
+       Jamaica. Revista Panamericana de Salud Pública 5, 100-105 (1999);
 10986. M. Castro, N. Quintana, P. M. Quinones, [Evaluating two pyrethroids in dengue
        vector control in Putumayo, Colombia]. Revista de Saude Publica (Bogota) 9, 106-
        116 (2007);
@@ -889,7 +889,7 @@ Table S2: Ae. aegypti references
        relation to the timing of insecticidal space-spraying. Medical and Veterinary
        Entomology 2, 189-192 (1988);
 10999. D. D. Chadee, [Methods for evaluating Aedes aegypti populations and insecticide
-       treatment in a town of Trinidad, West Indies]. Bolet�n de la Oficina Sanitaria
+       treatment in a town of Trinidad, West Indies]. Boletín de la Oficina Sanitaria
        Panamericana 109, 350-359 (1990);
 11002. D. D. Chadee, Seasonal incidence and vertical distribution patterns of oviposition by
        Aedes aegypti in an urban environment in Trinidad, W. I. Journal of the American
@@ -925,7 +925,7 @@ Table S2: Ae. aegypti references
        and Parasitology 85, 461-466 (1991);
 
 
-                                                                                         16  
+	                                                                                        16	  
 11018. D. D. Chadee, P. S. Corbet, The gonotrophic status and diel pattern of entry to
        outdoor oviposition sites of female Aedes aegypti (L.) (Diptera: Culicidae). Annals of
        Tropical Medicine and Parasitology 87, 263-268 (1993);
@@ -983,7 +983,7 @@ Table S2: Ae. aegypti references
        Tanzania. Journal of Animal Ecology 43, 289-304 (1974);
 
 
-                                                                                         17  
+	                                                                                        17	  
 11123. S. Cook, S. N. Bennett, E. C. Holmes, R. De Chesse, G. Moureau, X. de Lamballerie,
        Isolation of a new strain of the flavivirus cell fusing agent virus in a natural mosquito
        population from Puerto Rico. Journal of General Virology 87, 735-748 (2006);
@@ -1027,24 +1027,24 @@ Table S2: Ae. aegypti references
        de Saude Publica 38, 139-140 (2004);
 11161. V. C. da Silva, P. O. Scherer, S. S. Falcao, J. Alencar, S. P. Cunha, I. M. Rodrigues,
        N. L. Pinheiro, [Diversity of oviposition containers and buildings where Aedes
-       albopictus and Aedes aegypti can be found]. Revista de Sa�de P�blica 40, 1106-1011
+       albopictus and Aedes aegypti can be found]. Revista de Saúde Pública 40, 1106-1011
        (2006);
 11162. M. P. da-Cunha, J. B. P. Lima, W. G. Brogdon, G. E. Moya, D. Valle, Monitoring of
        resistance to the pyrethroid cypermethrin in Brazilian Aedes aegypti (Diptera :
        Culicidae) populations collected between 2001 and 2003. Memorias Do Instituto
        Oswaldo Cruz 100, 441-444 (2005);
 11166. R. Danis-Lozano, M. H. Rodriguez, M. Hernandez-Avila, Gender-related family head
-       schooling and Aedes aegypti larval breeding risk in southern Mexico. Salud P�blica
-       de M�xico 44, 237-242 (2002);
+       schooling and Aedes aegypti larval breeding risk in southern Mexico. Salud Pública
+       de México 44, 237-242 (2002);
 11176. P. K. Das, P. K. Rajagopalan, Susceptibility of Larvae of Culex-Fatigans
        (Wiedmann), Anopheles-Stephensi (Liston) and Aedes-Aegypti (Linn) to Insecticides
        in Pondicherry. Indian Journal of Medical Research 70, 412-416 (1979);
 
 
-                                                                                            18  
+	                                                                                           18	  
 11183. C. F. de Andrande, M. Modolo, Susceptibility of Aedes aegypti larvae to temephos
-       and Bacillus thuringiensis var israelensis in integrated control. Revista de Sa�de
-       P�blica 25, 184-187 (1991);
+       and Bacillus thuringiensis var israelensis in integrated control. Revista de Saúde
+       Pública 25, 184-187 (1991);
 11189. A. B. de Garin, R. A. Bejaran, A. E. Carbajo, S. C. de Casas, N. J. Schweigmann,
        Atmospheric control of Aedes aegypti populations in Buenos Aires (Argentina) and
        its variability. International Journal of Biometeorology 44, 148-156 (2000);
@@ -1099,7 +1099,7 @@ Table S2: Ae. aegypti references
        Exotique 90, 361-363 (1997);
 
 
-                                                                                         19  
+	                                                                                        19	  
 11241. M. R. Dibo, F. Chiaravalloti-Neto, M. Battigaglia, A. Mondini, E. A. Favaro, A. A.
        C. Barbosa, C. M. Glasser, Identification of the best ovitrap installation sites for
        gravid Aedes (Stegomyia) aegypti in residences in Mirassol, State of Sao Paulo,
@@ -1124,7 +1124,7 @@ Table S2: Ae. aegypti references
 11255. V. M. dos Santos, L. Macoris Mde, M. T. Andrighetti, P. E. Avila, K. Kirchgatter,
        Analysis of genetic relatedness between populations of Aedes aegypti from different
        geographic regions of Sao Paulo state, Brazil. Revista do Instituto de Medicina
-       Tropical de S�o Paulo 45, 99-101 (2003);
+       Tropical de São Paulo 45, 99-101 (2003);
 11259. V. K. Dua, B. N. Nagpal, V. P. Sharma, Repellent action of neem cream against
        mosquitoes. Indian Journal of Malariology 32, 47-53 (1995);
 11260. J. C. R. Duenas, G. M. Panzetta-Dutari, A. Blanco, C. N. Gardenal, Restriction
@@ -1135,7 +1135,7 @@ Table S2: Ae. aegypti references
        Aedes aegypti and Aedes albopictus. Journal of the American Mosquito Control
        Association 6, 411-414 (1990);
 11267. B. E. Dutary, J. E. Rozette, C. Campos, [Current situation of the Aedes aegypti
-       mosquito in the metropolitan area of Panama city]. Revista M�dica de Panam� 14,
+       mosquito in the metropolitan area of Panama city]. Revista Médica de Panamá 14,
        67-78 (1989);
 11268. P. Dutta, S. A. Khan, A. M. Khan, C. K. Sharma, J. Mahanta, Entomological
        observations on dengue vector mosquitoes following a suspected outbreak of dengue
@@ -1157,7 +1157,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       20  
+	                                                                                      20	  
 11274. J. Edman, P. Kittayapong, K. Linthicum, T. Scott, Attractant resting boxes for rapid
        collection and surveillance of Aedes aegypti (L.) inside houses. Journal of the
        American Mosquito Control Association 13, 24-27 (1997);
@@ -1169,7 +1169,7 @@ Table S2: Ae. aegypti references
        aegypti in Arizona. Emerging Infectious Diseases 3, 241-242 (1997);
 11289. F. Espinoza Gomez, C. M. Hernandez Suarez, R. Coll Cardenas, [Factors that modify
        the larval indices of Aedes aegypti in Colima, Mexico]. Revista Panamericana de
-       Salud P�blica 10, 6-12 (2001);
+       Salud Pública 10, 6-12 (2001);
 11290. F. Espinoza-Gomez, C. M. Hernandez-Suarez, R. Coll-Cardenas, Educational
        campaign versus malathion spraying for the control of Aedes aegypti in Colima,
        Mexico. Journal of Epidemiology and Community Health 56, 148-152 (2002);
@@ -1192,10 +1192,10 @@ Table S2: Ae. aegypti references
        vectorial competence in Aedes mosquitoes]. Bulletin De La Societe De Pathologie
        Exotique 92, 266-273 (1999);
 11315. P. Fauran, G. Le Gonidec, F. Rodhain, [Research on viral infections in South Pacific
-       mosquitoes under natural conditions]. Bulletin De La Soci�t� De Pathologie Exotique
+       mosquitoes under natural conditions]. Bulletin De La Société De Pathologie Exotique
        Et De Ses Filiales 77, 628-636 (1984);
 11316. P. Fauran, R. Taylor, [Monitoring of mosquito vectors at international airports of the
-       South Pacific region]. Bulletin De La Soci�t� De Pathologie Exotique Et De Ses
+       South Pacific region]. Bulletin De La Société De Pathologie Exotique Et De Ses
        Filiales 81, 125-135 (1988);
 11317. E. A. Favaro, M. R. Dibo, A. Mondini, A. C. Ferreira, A. A. Barbosa, A. E. Eiras, E.
        A. Barata, F. Chiaravalloti-Neto, Physiological state of Aedes (Stegomyia) aegypti
@@ -1215,7 +1215,7 @@ Table S2: Ae. aegypti references
        703-704 (1998);
 
 
-                                                                                         21  
+	                                                                                        21	  
 11335. A. Flisser, A. Velasco-Villa, C. Martinez-Campos, F. Gonzalez-Dominguez, B.
        Briseno-Garcia, R. Garcia-Suarez, A. Caballero-Servin, I. Hernandez-Monroy, H.
        Garcia-Lozano, L. Gutierrez-Cogco, G. Rodriguez-Angeles, I. Lopez-Martinez, S.
@@ -1247,7 +1247,7 @@ Table S2: Ae. aegypti references
        Application to Suppress Aedes-Aegypti (Diptera, Culicidae). Journal of Medical
        Entomology 23, 513-519 (1986);
 11350. D. Fontenille, [New and unusual locations of Aedes (stegomyia) aegypti, Linne 1762
-       (Diptera, Culicidae) in Madagascar]. Bulletin De La Soci�t� De Pathologie Exotique
+       (Diptera, Culicidae) in Madagascar]. Bulletin De La Société De Pathologie Exotique
        Et De Ses Filiales 79, 525-530 (1986);
 11355. D. Fontenille, F. Rodhain, Biology and distribution of Aedes albopictus and Aedes
        aegypti in Madagascar. Journal of the American Mosquito Control Association 5,
@@ -1273,7 +1273,7 @@ Table S2: Ae. aegypti references
        Neotropical Entomology 36, 294-302 (2007);
 
 
-                                                                                        22  
+	                                                                                       22	  
 11414. F. Garcia-Franco, M. D. Munoz, S. Lozano-Fuentes, I. Fernandez-Salas, J. Garcia-
        Rejon, B. J. Beaty, W. C. Black, Large genetic distances among Aedes aegypti
        populations along the south Pacific coast of Mexico. American Journal of Tropical
@@ -1331,7 +1331,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         23  
+	                                                                                        23	  
 11483. K. K. Grover, H. V. Agarwal, Chemo-Sterilization of Aedes-Aegypti (L) .3. Control
        of a Simulated Natural-Population in a Field Cage by Releases of Thiotepa-Sterilized
        Males. Indian Journal of Experimental Biology 17, 139-143 (1979);
@@ -1389,7 +1389,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        24  
+	                                                                                       24	  
 11536. B. A. Harrison, M. C. Callahan, D. M. Watts, L. Panthusiri, An Efficient Floating
        Larval Trap for Sampling Aedes-Aegypti Populations (Diptera, Culicidae). Journal of
        Medical Entomology 19, 722-727 (1982);
@@ -1441,13 +1441,13 @@ Table S2: Ae. aegypti references
        developing in water-filled tires in Rio de Janeiro. Memorias Do Instituto Oswaldo
        Cruz 101, 225-228 (2006);
 11585. N. A. Honorio, R. Lourenco-De-Oliveira, [Frequency of Aedes aegypti and Aedes
-       albopictus larvae and pupae in traps, Brazil]. Revista de Sa�de P�blica 35, 385-391
+       albopictus larvae and pupae in traps, Brazil]. Revista de Saúde Pública 35, 385-391
        (2001);
 11586. N. A. Honorio, W. D. Silva, P. J. Leite, J. M. Goncalves, L. P. Lounibos, R.
        Lourenco-de-Oliveira, Dispersal of Aedes aegypti and Aedes albopictus (Diptera :
 
 
-                                                                                         25  
+	                                                                                        25	  
          Culicidae) in an urban endemic dengue area in the State of Rio de Janeiro, Brazil.
          Memorias Do Instituto Oswaldo Cruz 98, 191-198 (2003);
 11588.   G. H. S. Hooper, Susceptibility to Insecticides of Populations of Aedes Aegypti from
@@ -1471,7 +1471,7 @@ Table S2: Ae. aegypti references
          Heredity 89, 7-14 (2002);
 11603.   K. Huber, L. Luu Le, H. Tran Huu, T. Tran Khanh, F. Rodhain, A. B. Failloux,
          [Aedes aegypti, vector of the dengue virus: spatio-temporal structure of its genetic
-         variation]. Bulletin de l'Acad�mie Nationale de M�decine 186, 1237-1248; discussion
+         variation]. Bulletin de l'Académie Nationale de Médecine 186, 1237-1248; discussion
          1248-1250 (2002);
 11609.   S. Hutamai, W. Suwonkerd, N. Suwannchote, P. Somboon, L. A. Prapanthadara, A
          survey of dengue viral infection in Aedes aegypti and Aedes albopictus from re-
@@ -1505,7 +1505,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          26  
+	                                                                                         26	  
 11635. Jatanase.S, Report on a Pilot Study of Aedes Aegypti Control in Bangkok. Bulletin of
        the World Health Organization 35, 91-92 (1966);
 11639. C. D. Jennings, B. Phommasack, B. Sourignadeth, B. H. Kay, Aedes aegypti control
@@ -1563,7 +1563,7 @@ Table S2: Ae. aegypti references
        Rathnasamy, K. Satyanarayana, Field- and laboratory-based active dengue
 
 
-                                                                                        27  
+	                                                                                       27	  
          surveillance in Chennai, Tamil Nadu, India: observations before and during the 2001
          dengue epidemic. American Journal of Infection Control 32, 391-396 (2004);
 11683.   M. Kalyanasundaram, P. Jambulingam, S. S. Sahu, P. S. B. Doss, D. D. Amalraj, P.
@@ -1621,7 +1621,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          28  
+	                                                                                         28	  
 11715. B. H. Kay, K. A. Sutton, B. M. Russell, A sticky entry-exit trap for sampling
        mosquitoes in subterranean habitats. Journal of the American Mosquito Control
        Association 16, 262-265 (2000);
@@ -1679,7 +1679,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        29  
+	                                                                                       29	  
 11795. R. R. Kumar, S. Kamal, S. K. Patnaik, R. C. Sharma, Breeding habitats and larval
        indices of Aedes aegypti (L) in residential areas of Rajahmundry town, Andhra
        Pradesh. Journal of Communicable Diseases 34, 50-58 (2002);
@@ -1706,7 +1706,7 @@ Table S2: Ae. aegypti references
        Revista Panamericana de Salud Publica 19, 379-384 (2006);
 11821. G. Le Gonidec, J. P. Quene, P. Fauran, [On an outbreak caused by dengue type 4
        virus, in Thio, New Caledonia. Epidemiological and clinical aspects (author's transl)].
-       Bulletin De La Soci�t� De Pathologie Exotique Et De Ses Filiales 75, 141-150
+       Bulletin De La Société De Pathologie Exotique Et De Ses Filiales 75, 141-150
        (1982);
 11832. Y. W. Lee, J. Zairi, Susceptibility of laboratory and field-collected Aedes aegypti and
        Aedes albopictus to Bacillus thuringiensis israelensis H-14. Journal of the American
@@ -1737,7 +1737,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          30  
+	                                                                                         30	  
 11877. L. S. Lloyd, P. Winch, J. Ortega-Canto, C. Kendall, The design of a community-
        based health education intervention for the control of Aedes aegypti. American
        Journal of Tropical Medicine and Hygiene 50, 401-411 (1994);
@@ -1754,7 +1754,7 @@ Table S2: Ae. aegypti references
        Public Health 8, 56-62 (1977);
 11889. J. Lopes, M. A. da Silva, A. M. Borsato, V. D. de Oliveira, F. J. Oliveira, [Aedes
        (Stegomyia) aegypti L. and associated culicidae fauna in a urban area of southern
-       Brazil]. Revista de Sa�de P�blica 27, 326-333 (1993);
+       Brazil]. Revista de Saúde Pública 27, 326-333 (1993);
 11890. J. Lopes, E. A. C. Martins, O. de Oliveira, V. de Oliveira, B. P. D. Neto, J. E. de
        Oliveira, Dispersion of Aedes aegypti (Linnaeus, 1762) and Aedes albopictus (Skuse,
        1894) in the rural zone of North Parana State. Brazilian Archives of Biology and
@@ -1795,7 +1795,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         31  
+	                                                                                        31	  
 11924. R. Maciel-de-Freitas, W. A. Marques, R. C. Peres, S. P. Cunha, R. L. de Oliveira,
        Variation in Aedes aegypti (Diptera: Culicidae) container productivity in a slum and a
        suburban district of Rio de Janeiro during dry and wet seasons. Memorias Do
@@ -1806,7 +1806,7 @@ Table S2: Ae. aegypti references
        (2003);
 11928. M. L. Macoris, C. A. Mazine, M. T. Andrighetti, S. Yasumaro, M. E. Silva, M. J.
        Nelson, P. J. Winch, Factors favoring houseplant container infestation with Aedes
-       aegypti larvae in Marilia, Sao Paulo, Brazil. Revista Panamericana de Salud P�blica
+       aegypti larvae in Marilia, Sao Paulo, Brazil. Revista Panamericana de Salud Pública
        1, 280-286 (1997);
 11929. N. G. Madeira, C. A. Macharelli, L. R. Carvalho, Variation of the oviposition
        preferences of Aedes aegypti in function of substratum and humidity. Memorias Do
@@ -1853,7 +1853,7 @@ Table S2: Ae. aegypti references
        (1996);
 
 
-                                                                                         32  
+	                                                                                        32	  
 11971. C. Marquetti Mdel, F. Carus, L. Aguilera, A. Navarro, [The effect of abiotic factors
        on the incidence of Aedes aegypti in the town of 10 de Octobre, Ciudad de la Habana
        Province, 1982-1992]. Revista Cubana de Medicina Tropical 47, 88-92 (1995);
@@ -1911,7 +1911,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         33  
+	                                                                                        33	  
 12055. M. V. Micieli, J. J. Garcia, M. F. Achinelly, G. A. Marti, [Population dynamics of the
        immature stages of Aedes aegjpti (Diptera : Culicidae), vector of dengue: a
        longitudinal study (1996-2000).]. Revista de Biologia Tropical 54, 979-983 (2006);
@@ -1969,7 +1969,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          34  
+	                                                                                         34	  
 12109. V. C. G. Morato, M. D. Teixeira, A. C. Gomes, D. P. Bergamaschi, M. L. Barreto,
        Infestation of Aedes aegypti estimated by oviposition traps in Brazil. Revista de
        Saude Publica 39, 553-558 (2005);
@@ -2027,7 +2027,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         35  
+	                                                                                        35	  
 12193. M. J. Nelson, L. S. Self, C. P. Pant, S. Usman, Diurnal Periodicity of Attraction to
        Human Bait of Aedes-Aegypti (Diptera Culicidae) in Jakarta, Indonesia. Journal of
        Medical Entomology 14, 504-510 (1978);
@@ -2085,7 +2085,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           36  
+	                                                                                          36	  
 12268. C. J. Paige, G. B. Craig, Variation in Filarial Susceptibility among East-African
        Populations of Aedes-Aegypti. Journal of Medical Entomology 12, 485-493 (1975);
 12272. R. S. Pandian, S. K. Dwarakanath, The Biting Activity Rhythm in Aedini Mosquitos
@@ -2104,7 +2104,7 @@ Table S2: Ae. aegypti references
        Aarons, Rock Hole Habitats of a Feral Population of Aedes-Aegypti on the Island of
        Anguilla, West-Indies. Mosquito News 43, 79-81 (1983);
 12284. A. D. Passos, E. M. Rodrigues, A. L. Dal-Fabbro, Dengue control in Ribeirao Preto,
-       Sao Paulo, Brazil. Cadernos de Sa�de P�blica 14 Suppl 2, 123-128 (1998);
+       Sao Paulo, Brazil. Cadernos de Saúde Pública 14 Suppl 2, 123-128 (1998);
 12294. C. Paupy, N. Chantha, J. M. Reynes, A. B. Failloux, Factors influencing the
        population structure of Aedes aegypti from the main cities in Cambodia. Heredity 95,
        144-147 (2005);
@@ -2143,7 +2143,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          37  
+	                                                                                         37	  
 12324. M. J. Perich, G. Davila, A. Turner, A. Garcia, M. Nelson, Behavior of resting Aedes
        aegypti (Culicidae: Diptera) and its relation to ultra-low volume adulticide efficacy in
        Panama City, Panama. Journal of Medical Entomology 37, 541-546 (2000);
@@ -2201,7 +2201,7 @@ Table S2: Ae. aegypti references
        aegypti. American Journal of Tropical Medicine and Hygiene 52, 225-227 (1995);
 
 
-                                                                                           38  
+	                                                                                          38	  
 12392. G. F. Rajendram, N. R. Antony, Survey of peridomestic mosquito species of Jaffna
        peninsula in Sri Lanka. Southeast Asian Journal of Tropical Medicine and Public
        Health 22, 637-642 (1991);
@@ -2259,7 +2259,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       39  
+	                                                                                      39	  
 12438. R. Reuben, Artificial Breeding Places for Study of Aedes Aegypti Breeding in a
        South Indian Town. Indian Journal of Medical Research 56, 1019-1022 (1968);
 12439. R. Reuben, Factors in Biology of Aedes-Aegypti of Importance to a Genetic Control
@@ -2274,8 +2274,8 @@ Table S2: Ae. aegypti references
        small Aedes aegypti (Diptera : Culicidae) field collected in Northeastern Mexico. Fla
        Entomol 87, 630-632 (2004);
 12454. F. Reyes-Villanueva, H. de la Garza-Garza, J. A. Flores-Leal, [Effect of sublethal
-       concentrations of abate on biological parameters of Aedes aegypti]. Salud P�blica de
-       M�xico 34, 406-412 (1992);
+       concentrations of abate on biological parameters of Aedes aegypti]. Salud Pública de
+       México 34, 406-412 (1992);
 12455. F. Reyes-Villanueva, M. Juarez-Eguia, A. Flores-Leal, Effects of sublethal dosages of
        Abate upon adult fecundity and longevity of Aedes aegypti. Journal of the American
        Mosquito Control Association 6, 739-741 (1990);
@@ -2305,19 +2305,19 @@ Table S2: Ae. aegypti references
        epidemiological considerationsirus]. Bulletin De La Societe De Pathologie Exotique
        86, 90-100 (1993);
 12488. Y. Robin, J. Mouchet, [Serological and entomological study on yellow fever in Sierra
-       Leone]. Bulletin De La Soci�t� De Pathologie Exotique Et De Ses Filiales 68, 249-
+       Leone]. Bulletin De La Société De Pathologie Exotique Et De Ses Filiales 68, 249-
        258 (1975);
 12489. F. Rodhain, [Preliminary results of an entomological survey of the potential arbovirus
-       vectors in the French Territory of Afars and Issas]. Bulletin De La Soci�t� De
+       vectors in the French Territory of Afars and Issas]. Bulletin De La Société De
        Pathologie Exotique Et De Ses Filiales 69, 169-174 (1976);
 12490. F. Rodhain, [Results of a survey of potential dengue vectors in the Neo-Caledonian
-       archipelago]. Bulletin De La Soci�t� De Pathologie Exotique Et De Ses Filiales 69,
+       archipelago]. Bulletin De La Société De Pathologie Exotique Et De Ses Filiales 69,
        21-27 (1976);
 
 
 
 
-                                                                                         40  
+	                                                                                        40	  
 12499. P. H. Rodriguez, G. B. Craig, Susceptibility to Brugia-Pahangi in Geographic Strains
        of Aedes-Aegypti. American Journal of Tropical Medicine and Hygiene 22, 53-61
        (1973);
@@ -2369,13 +2369,13 @@ Table S2: Ae. aegypti references
        Aedes aegypti in Thailand. Southeast Asian Journal of Tropical Medicine and Public
        Health 36, 417-425 (2005);
 12571. M. A. Salas-Luevano, F. Reyes-Villanueva, [Seasonal variations in Aedes Aegypti
-       populations in Monterrey, Mexico]. Salud P�blica de M�xico 36, 385-392 (1994);
+       populations in Monterrey, Mexico]. Salud Pública de México 36, 385-392 (1994);
 12578. W. A. Samarawickrema, F. Sone, E. Kimura, L. S. Self, R. F. Cummings, G. S.
        Paulson, The relative importance and distribution of Aedes polynesiensis and Ae.
 
 
 
-                                                                                        41  
+	                                                                                       41	  
          aegypti larval habitats in Samoa. Medical and Veterinary Entomology 7, 27-36
          (1993);
 12579.   W. J. Sames, R. Bueno, J. Hayes, J. K. Olson, Insecticide susceptibility of Aedes
@@ -2390,7 +2390,7 @@ Table S2: Ae. aegypti references
          Oaxaca, Mexico]. Revista Cubana de Medicina Tropical 50, 8-11 (1998);
 12589.   A. Santamarina Mijares, R. Perez Pacheco, S. Honorio Martinez, [Susceptibility of
          Aedes aegypti larvae to parasitism by Romanomermis culicivorax in laboratory and
-         field conditions in Oaxaca, Mexico]. Revista Panamericana de Salud P�blica 8, 299-
+         field conditions in Oaxaca, Mexico]. Revista Panamericana de Salud Pública 8, 299-
          304 (2000);
 12599.   S. H. Saul, P. Guptavanij, G. B. Craig, Genetic-Variability at an Esterase Locus in
          Aedes-Aegypti (Diptera-Culicidae). Annals of the Entomological Society of America
@@ -2433,7 +2433,7 @@ Table S2: Ae. aegypti references
          Mosquito News 35, 308-314 (1975);
 
 
-                                                                                            42  
+	                                                                                           42	  
 12644. J. A. Seawright, P. E. Kaiser, D. A. Dame, Mating Competitiveness of
        Chemosterilized Hybrid Males of Aedes-Aegypti (L) in Field-Tests. Mosquito News
        37, 615-619 (1977);
@@ -2454,8 +2454,8 @@ Table S2: Ae. aegypti references
        urban housing of Sibu town, Sarawak. Southeast Asian Journal of Tropical Medicine
        and Public Health 25, 543-548 (1994);
 12661. L. L. Serpa, K. V. Costa, J. C. Voltolini, I. Kakitani, [Seasonal variation of Aedes
-       aegypti and Aedes albopictus in a city of Southeastern Brazil]. Revista de Sa�de
-       P�blica 40, 1101-1105 (2006);
+       aegypti and Aedes albopictus in a city of Southeastern Brazil]. Revista de Saúde
+       Pública 40, 1101-1105 (2006);
 12673. E. A. S. Shaalan, D. V. Canyon, M. W. F. Younes, H. Abdel-Wahab, A. H. Mansour,
        Synergistic efficacy of botanical blends with and without synthetic insecticides
        against Aedes aegypti and Culex annulirostris mosquitoes. Journal of Vector Ecology
@@ -2491,7 +2491,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         43  
+	                                                                                        43	  
 12712. J. Singh, N. Balakrishnan, M. Bhardwaj, P. Amuthadevi, E. G. George, K.
        Subramani, K. Soundararajan, N. C. Appavoo, D. C. Jain, R. L. Ichhpujani, R.
        Bhatia, J. Sokhey, Silent spread of dengue and dengue haemorrhagic fever to
@@ -2535,9 +2535,9 @@ Table S2: Ae. aegypti references
 12760. R. R. Stapp, J. Casten, Field Studies on Lankesteria-Culicis and Aedes-Aegypti in
        Florida. Mosquito News 31, 18-22 (1971);
 12761. M. Stein, G. I. Oria, W. R. Almiron, [Main breeding-containers for Aedes aegypti
-       and associated culicids, Argentina]. Revista de Sa�de P�blica 36, 627-630 (2002);
+       and associated culicids, Argentina]. Revista de Saúde Pública 36, 627-630 (2002);
 12762. M. Stein, G. I. Oria, W. R. Almiron, J. A. Willener, [Seasonal fluctuation of Aedes
-       aegypti in Chaco Province, Argentina]. Revista de Sa�de P�blica 39, 559-564 (2005);
+       aegypti in Chaco Province, Argentina]. Revista de Saúde Pública 39, 559-564 (2005);
 12769. D. Strickman, Longevity of Aedes aegypti (Diptera: Culicidae) compared in cages
        and field under ambient conditions in rural Thailand. Southeast Asian Journal of
        Tropical Medicine and Public Health 37, 456-462 (2006);
@@ -2549,7 +2549,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         44  
+	                                                                                        44	  
        length measurements with aspects of the larval habitat. American Journal of Tropical
        Medicine and Hygiene 68, 209-217 (2003);
 12774. Y. C. Su, C. Y. Chang, E. L. Hsu, C. M. Yin, C. M. Ho, Genetic relationships among
@@ -2607,7 +2607,7 @@ Table S2: Ae. aegypti references
        Sympatric Forms of Aedes-Aegypti in East-Africa. Evolution 33, 287-295 (1979);
 
 
-                                                                                         45  
+	                                                                                        45	  
 12821. W. J. Tabachnick, J. R. Powell, World-Wide Survey of Genetic-Variation in the
        Yellow-Fever Mosquito, Aedes-Aegypti. Genetical Research 34, 215-229 (1979);
 12822. W. J. Tabachnick, G. P. Wallis, T. H. Aitken, B. R. Miller, G. D. Amato, L. Lorenz,
@@ -2665,7 +2665,7 @@ Table S2: Ae. aegypti references
        Thailand. Bulletin of the World Health Organization 40, 819-829 (1969);
 
 
-                                                                                         46  
+	                                                                                        46	  
 12894. J. L. Torres-Estrada, M. H. Rodriguez, L. Cruz-Lopez, J. I. Arredondo-Jimenez,
        Selective oviposition by Aedes aegypti (Diptera: culicidae) in response to
        Mesocyclops longisetus (Copepoda: Cyclopoidea) under laboratory and field
@@ -2703,7 +2703,7 @@ Table S2: Ae. aegypti references
 12970. P. F. Vasconcelos, E. S. Travassos da Rosa, J. F. Travassos da Rosa, R. B. de Freitas,
        N. Degallier, S. G. Rodrigues, A. P. Travassos da Rosa, [Outbreak of classical fever
        of dengue caused by serotype 2 in Araguaiana, Tocantins, Brazil]. Revista do
-       Instituto de Medicina Tropical de S�o Paulo 35, 141-148 (1993);
+       Instituto de Medicina Tropical de São Paulo 35, 141-148 (1993);
 12980. M. Vazeille-Falcoz, A. B. Failloux, L. Mousson, N. Elissa, F. Rodhain, [Oral
        receptivity of Aedes aegypti formosus from Franceville (Gabon, central Africa) for
        type 2 dengue virus]. Bulletin De La Societe De Pathologie Exotique 92, 341-342
@@ -2723,7 +2723,7 @@ Table S2: Ae. aegypti references
        Instituto Oswaldo Cruz 99, 351-356 (2004);
 
 
-                                                                                         47  
+	                                                                                        47	  
 13002. S. Vongtangswad, C. Tirabutana, B. Thongkum, The Biological-Control of Aedes-
        Aegypti on Sa-Med Island, Rayong Province by Means of Toxorhynchites-
        Splendens, a Predatory Mosquito Larva. Journal of the Medical Association of
@@ -2781,7 +2781,7 @@ Table S2: Ae. aegypti references
        Mosquito Control Association 8, 193-195 (1992);
 
 
-                                                                                          48  
+	                                                                                         48	  
 13072. M. C. Wirth, G. P. Georghiou, Selection and characterization of temephos resistance
        in a population of Aedes aegypti from Tortola, British Virgin Islands. Journal of the
        American Mosquito Control Association 15, 315-320 (1999);
@@ -2835,11 +2835,11 @@ Table S2: Ae. aegypti references
 13398. R. J. Novak, A North American model to contain the spread of Aedes albopictus
        through tire legislation. Parassitologia 37, 129-139 (1995);
 13461. S. M. Ahid, R. Lourenco-De-Oliveira, [Mosquitoes potential vectors of canine
-       heartworm in the Northeast Region from Brazil]. Revista de Sa�de P�blica 33, 560-
+       heartworm in the Northeast Region from Brazil]. Revista de Saúde Pública 33, 560-
        565 (1999);
 
 
-                                                                                          49  
+	                                                                                         49	  
 13588. N. Schweigmann, D. Vezzani, P. Orellano, J. Kuruc, R. Boffi, Aedes albopictus in an
        area of Misiones, Argentina. Revista de Saude Publica 38, 136-138 (2004);
 13608. A. D. Gomes, J. M. P. de Souza, D. P. Bergamaschi, J. L. F. Dos Santos, V. R.
@@ -2850,7 +2850,7 @@ Table S2: Ae. aegypti references
        albopictus in Thailand. Journal of Medical Entomology 42, 844-849 (2005);
 13641. V. E. Martins, M. G. Martins, J. M. de Araujo, L. O. Silva, H. A. Monteiro, F. C.
        Castro, P. F. Vasconcelos, M. I. Guedes, [First report of Aedes (Stegomyia)
-       albopictus in the state of Ceara, Brazil]. Revista de Sa�de P�blica 40, 737-739
+       albopictus in the state of Ceara, Brazil]. Revista de Saúde Pública 40, 737-739
        (2006);
 13649. N. R. Powers, K. Cox, R. Romero, M. A. DiMenna, The reintroduction and possible
        establishment of Aedes albopictus in New Mexico. Journal of the American Mosquito
@@ -2897,7 +2897,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         50  
+	                                                                                        50	  
 13751. M. Sylla, C. Bosio, L. Urdaneta-Marquez, M. Ndiaye, W. C. Black, Gene Flow,
        Subspecies Composition, and Dengue Virus-2 Susceptibility among Aedes aegypti
        Collections in Senegal. Plos Neglected Tropical Diseases 3, e408 (2009);
@@ -2942,7 +2942,7 @@ Table S2: Ae. aegypti references
        interphase nuclei. Genetics and Molecular Research 7, 772-781 (2008);
 13828. J. Quintero, G. Carrasquilla, R. Suarez, C. Gonzalez, V. A. Olano, An ecosystemic
        approach to evaluating ecological, socioeconomic and group dynamics affecting the
-       prevalence of Aedes aegypti in two Colombian towns. Cadernos de Sa�de P�blica 25
+       prevalence of Aedes aegypti in two Colombian towns. Cadernos de Saúde Pública 25
        Suppl 1, S93-103 (2009);
 13843. A. Ponlawat, L. C. Harrington, Factors associated with male mating success of the
        dengue vector mosquito, Aedes aegypti. American Journal of Tropical Medicine and
@@ -2955,7 +2955,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         51  
+	                                                                                        51	  
 13854. C. Paupy, C. Brengues, B. Kamgang, J. P. Herve, D. Fontenille, F. Simard, Gene
        flow between domestic and sylvan populations of Aedes aegypti (Diptera : Culicidae)
        in North Cameroon. Journal of Medical Entomology 45, 391-400 (2008);
@@ -3013,7 +3013,7 @@ Table S2: Ae. aegypti references
        comparison of Adultrap, MosquiTRAP and backpack aspirator efficiency in a
 
 
-                                                                                            52  
+	                                                                                           52	  
          dengue-endemic area of Brazil. Memorias Do Instituto Oswaldo Cruz 103, 602-605
          (2008);
 13943.   A. Lucia, L. Harburguer, S. Licastro, E. Zerba, H. Masuh, Efficacy of a new
@@ -3039,7 +3039,7 @@ Table S2: Ae. aegypti references
          Southeast Asian Journal of Tropical Medicine and Public Health 39, 601-609 (2008);
 13963.   M. T. Lagrotta, W. D. Silva, R. Souza-Santos, Identification of key areas for Aedes
          aegypti control through geoprocessing in Nova Iguacu, Rio de Janeiro state, Brazil.
-         Cadernos de Sa�de P�blica 24, 70-80 (2008);
+         Cadernos de Saúde Pública 24, 70-80 (2008);
 13967.   N. P. Kumar, R. Joseph, T. Kamaraj, P. Jambulingam, A226V mutation in virus
          during the 2007 chikungunya outbreak in Kerala, India. Journal of General Virology
          89, 1945-1948 (2008);
@@ -3071,7 +3071,7 @@ Table S2: Ae. aegypti references
          (L.) (Diptera : Culicidae). Neotropical Entomology 36, 809-811 (2007);
 
 
-                                                                                            53  
+	                                                                                           53	  
 14026. L. A. Hill, J. B. Davis, G. Hapgood, P. I. Whelan, G. A. Smith, S. A. Ritchie, R. D.
        Cooper, A. F. van den Hurk, Rapid Identification of Aedes albopictus, Aedes
        scutellaris, and Aedes aegypti Life Stages Using Real-time Polymerase Chain
@@ -3113,7 +3113,7 @@ Table S2: Ae. aegypti references
        (Stegomyia) adults in a dengue-endemic area in Thailand. American Journal of
        Tropical Medicine and Hygiene 78, 904-909 (2008);
 14069. A. E. Eiras, M. C. Resende, Preliminary evaluation of the 'Dengue-MI' technology for
-       Aedes aegypti monitoring and control. Cadernos de Sa�de P�blica 25 Suppl 1, S45-
+       Aedes aegypti monitoring and control. Cadernos de Saúde Pública 25 Suppl 1, S45-
        58 (2009);
 14073. R. A. dos Passos, W. P. Tadei, Parasitism of Ascogregarina taiwanensis and
        Ascogregarina culicis (Apicomplexa : Lecudinidae) in larvae of Aedes albopictus and
@@ -3125,11 +3125,11 @@ Table S2: Ae. aegypti references
        Oswaldo Cruz 103, 554-560 (2008);
 14077. C. Diaz, Y. Torres, A. M. de la Cruz, A. M. Alvarez, M. E. Piquero, A. Valero, O.
        Fuentes, [An inter-sector participatory strategy in Cuba using an ecosystem approach
-       to prevent dengue transmission at the local level]. Cadernos de Sa�de P�blica 25
+       to prevent dengue transmission at the local level]. Cadernos de Saúde Pública 25
        Suppl 1, S59-70 (2009);
 
 
-                                                                                          54  
+	                                                                                         54	  
 14078. M. Diallo, Y. Ba, O. Faye, M. L. Soumare, I. Dia, A. A. Sall, Vector competence of
        Aedes aegypti populations from Senegal for sylvatic and epidemic dengue 2 virus
        isolated in West Africa. Transactions of the Royal Society of Tropical Medicine and
@@ -3187,7 +3187,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         55  
+	                                                                                        55	  
 14206. B. Angel, K. Sharma, V. Joshi, Association of ovarian proteins with transovarial
        transmission of dengue viruses by Aedes mosquitoes in Rajasthan, India. Indian
        Journal of Medical Research 128, 320-323 (2008);
@@ -3245,7 +3245,7 @@ Table S2: Ae. aegypti references
 14351. A. Banks, DENGUE/DHF UPDATE 2006 (01). PROMED. 2006.
 
 
-                                                                                      56  
+	                                                                                     56	  
 14352.   A. Rodriguez, DENGUE/DHF UPDATE 2006 (05). PROMED. 2006.
 14355.   A. Rodriguez, DENGUE/DHF UPDATE 2006 (15) PROMED. 2006.
 14357.   Anonymous, DENGUE/DHF UPDATE 2006 (28) PROMED. 2006.
@@ -3303,7 +3303,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        57  
+	                                                                                       57	  
 14619. G. E. Coelho, M. N. Burattini, M. D. Teixeira, F. A. B. Coutinho, E. Massad,
        Dynamics of the 2006/2007 dengue outbreak in Brazil. Memorias Do Instituto
        Oswaldo Cruz 103, 535-U537 (2008);
@@ -3333,7 +3333,7 @@ Table S2: Ae. aegypti references
        1222-1228 (1982);
 14763. N. A. Honorio, M. G. Castro, F. S. de Barros, A. Magalhaes Mde, P. C. Sabroza, The
        spatial distribution of Aedes aegypti and Aedes albopictus in a transition zone, Rio de
-       Janeiro, Brazil. Cadernos de Sa�de P�blica 25, 1203-1214 (2009);
+       Janeiro, Brazil. Cadernos de Saúde Pública 25, 1203-1214 (2009);
 14823. P. Kittayapong, U. Chansang, C. Chansang, A. Bhumiratana, Community
        participation and appropriate technologies for dengue vector control at transmission
        foci in Thailand. Journal of the American Mosquito Control Association 22, 538-546
@@ -3361,7 +3361,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          58  
+	                                                                                         58	  
 15067. M. M. Ramos, H. Mohammed, E. Zielinski-Gutierrez, M. H. Hayden, J. L. R. Lopez,
        M. Fournier, A. R. Trujillo, R. Burton, J. M. Brunkard, L. Anaya-Lopez, A. A.
        Banicki, P. K. Morales, B. Smith, J. L. Munoz, S. H. Waterman, D. S. W. Grp,
@@ -3419,7 +3419,7 @@ Table S2: Ae. aegypti references
 15317. A. J. Rodriguez , A.-L. Banks, Dengue/DHF update 2006 (26) PROMED. 2006.
 
 
-                                                                                         59  
+	                                                                                        59	  
 15321.   T. Roesel, A. Rodriguez , J. Dudley, Dengue/DHF update 2006 (28) PROMED. 2006.
 15323.   A.-L. Banks, Dengue/DHF update 2006 (30) PROMED. 2006.
 15325.   A.-L. Banks, J. Dudley, D. Duffy, Dengue/DHF update 2006 (32) PROMED. 2006.
@@ -3477,7 +3477,7 @@ Table S2: Ae. aegypti references
 15474.   Anonymous, DENGUE/DHF UPDATE 2007 (29). PROMED. 2007.
 
 
-                                                                                   60  
+	                                                                                  60	  
 15477. Anonymous, DENGUE/DHF UPDATE 2007 (26). PROMED. 2007.
 18117. S. Wongkoon, M. Jaroensutasinee, K. Jaroensutasinee, Distribution, seasonal
        variation & dengue transmission prediction in Sisaket, Thailand. Indian J Med Res
@@ -3535,7 +3535,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        61  
+	                                                                                       61	  
 18131. C. Ngoagouni, B. Kamgang, A. Manirakiza, A. Nangouma, C. Paupy, E. Nakoune,
        M. Kazanji, Entomological profile of yellow fever epidemics in the Central African
        Republic, 2006-2010. Parasit Vectors 5, 175 (2012);
@@ -3593,7 +3593,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          62  
+	                                                                                         62	  
 18147. K. Ho, L. W. Ang, B. H. Tan, C. S. Tang, P. L. Ooi, L. James, G. Kee Tai,
        Epidemiology and control of chikungunya fever in Singapore. J Infect 62, 263-270
        (2011);
@@ -3651,7 +3651,7 @@ Table S2: Ae. aegypti references
        Zoonotic Dis 10, 259-266 (2010);
 
 
-                                                                                        63  
+	                                                                                       63	  
 18162. K. Hoshino, H. Isawa, Y. Tsuda, K. Sawabe, M. Kobayashi, Isolation and
        characterization of a new insect flavivirus from Aedes albopictus and Aedes
        flavopictus mosquitoes in Japan. Virology 391, 119-129 (2009);
@@ -3709,7 +3709,7 @@ Table S2: Ae. aegypti references
        Dengue Vectors in Lahore, Pakistan. Pak J Zool 45, 305-315 (2013);
 
 
-                                                                                           64  
+	                                                                                          64	  
 18178. H. H. Wu, C. Y. Wang, H. J. Teng, C. Lin, L. C. Lu, S. W. Jian, N. T. Chang, T. H.
        Wen, J. W. Wu, D. P. Liu, L. J. Lin, D. E. Norris, H. S. Wu, A Dengue Vector
        Surveillance by Human Population-Stratified Ovitrap Survey for Aedes (Diptera:
@@ -3767,7 +3767,7 @@ Table S2: Ae. aegypti references
        insecticide-treated curtain implementation. Am J Trop Med Hyg 84, 747-752 (2011);
 
 
-                                                                                            65  
+	                                                                                           65	  
 18195. V. Bantoto, D. Dy, The larvicidal activity of brown algae Padina minor (Yamada
        1925) and Dicyota linearis (Greville 1830) against the dengue vector, Aedes aegypti
        (Linn 1762) (Diptera: Culicidae). J Vector Borne Dis 50, 68-70 (2013);
@@ -3825,7 +3825,7 @@ Table S2: Ae. aegypti references
        der Stuyft, A community empowerment strategy embedded in a routine dengue vector
 
 
-                                                                                        66  
+	                                                                                       66	  
          control programme: a cluster randomised controlled trial. Trans R Soc Trop Med Hyg
          106, 315-321 (2012);
 18212.   F. Castro-Llanos, H. Manda, A. Morrison, V. Lopez, N. L. Achee, J. Grieco, K.
@@ -3883,7 +3883,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                             67  
+	                                                                                            67	  
          Aedes aegypti in laboratory and semi-field conditions. Am J Trop Med Hyg 86, 656-
          664 (2012);
 18228.   A. de la Mora-Covarrubias, F. Jimenez-Vega, S. M. Trevino-Aguilar, [Geospatial
@@ -3941,7 +3941,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                             68  
+	                                                                                            68	  
 18243. B. Dwibedi, J. Sabat, N. Mahapatra, S. K. Kar, A. S. Kerketta, R. K. Hazra, S. K.
        Parida, N. S. Marai, M. K. Beuria, Rapid spread of chikungunya virus infection in
        Orissa: India. Indian J Med Res 133, 316-321 (2011);
@@ -3999,7 +3999,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        69  
+	                                                                                       69	  
 18258. J. E. Garcia-Rejon, M. A. Lorono-Pino, J. A. Farfan-Ale, L. F. Flores-Flores, M. P.
        Lopez-Uribe, R. Najera-Vazquez Mdel, G. Nunez-Ayala, B. J. Beaty, L. Eisen,
        Mosquito infestation and dengue virus infection in Aedes aegypti females in schools
@@ -4057,7 +4057,7 @@ Table S2: Ae. aegypti references
        for the dengue vector Aedes aegypti. PLoS Negl Trop Dis 4, e634 (2010);
 
 
-                                                                                          70  
+	                                                                                         70	  
 18274. A. A. Hoffmann, B. L. Montgomery, J. Popovici, I. Iturbe-Ormaetxe, P. H. Johnson,
        F. Muzzi, M. Greenfield, M. Durkan, Y. S. Leong, Y. Dong, H. Cook, J. Axford, A.
        G. Callahan, N. Kenny, C. Omodei, E. A. McGraw, P. A. Ryan, S. A. Ritchie, M.
@@ -4115,7 +4115,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                            71  
+	                                                                                           71	  
          strategies to control dengue vectors in urban and peri-urban settings in Thailand.
          Pathogens and global health 106, 446-454 (2012);
 18290.   T. B. Knox, Y. T. Nguyen, N. S. Vu, B. H. Kay, P. A. Ryan, Quantitative
@@ -4173,7 +4173,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                            72  
+	                                                                                           72	  
 18305. Y. H. Lin, W. L. Tsen, N. Y. Tien, Y. P. Luo, Biochemical and molecular analyses to
        determine pyrethroid resistance in Aedes aegypti. Pestic Biochem Phys 107, 266-276
        (2013);
@@ -4231,7 +4231,7 @@ Table S2: Ae. aegypti references
        Tropical Medicine and Hygiene 81, 167-167 (2009);
 
 
-                                                                                        73  
+	                                                                                       73	  
 18323. P. Manrique-Saide, C. Arisqueta-Chable, E. Geded-Moreno, J. Herrera-Bojorquez, U.
        C. Valentin, J. Chable-Santos, A. Che-Mendoza, E. C. Sanchez, J. I. Arredondo-
        Jimenez, A. Medina-Barreiro, An assessment of the importance of subsurface catch
@@ -4289,7 +4289,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        74  
+	                                                                                       74	  
 18337. D. Montada Dorta, M. Leyva Silva, M. Castex Rodriguez, Y. Silva Leyva, [Efficacy
        of indoor treatment with cypermethrin, lambda-cyhalothrin and chlorpyrifos for the
        regulation of Aedes aegypti in the City of Havana]. Rev Cubana Med Trop 62, 230-
@@ -4347,7 +4347,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         75  
+	                                                                                        75	  
 18353. P. Pacheco-Coral Adel, M. L. Quinones-Pinzon, I. M. Serrato-Pomar, F. A. Rivas-
        Munoz, [Evaluating an Information, Education and Communication (IEC) strategy
        which was adopted for Aedes aegypti control in La Dorada, Colombia]. Rev Salud
@@ -4405,7 +4405,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          76  
+	                                                                                         76	  
          (Diptera: Culicidae) from Santiago de Cuba, 1997-2009]. Rev Cubana Med Trop 62,
          217-223 (2010);
 18370.   Y. Rubio-Palis, H. Guzman, J. Espinoza, L. Cardenas, M. Bevilacqua, D. Medina,
@@ -4463,7 +4463,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                            77  
+	                                                                                           77	  
          populations and identifies novel virus-vector molecular interactions. PLoS Negl Trop
          Dis 7, e2295 (2013);
 18387.   V. Sinh Nam, N. Thi Yen, H. Minh Duc, T. Cong Tu, V. Trong Thang, N. Hoang Le,
@@ -4521,7 +4521,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           78  
+	                                                                                          78	  
 18401. S. N. Surendran, P. J. Jude, A. C. Thavaranjit, T. Eswaramohan, M. Vinobaba, R.
        Ramasamy, Predatory efficacy of Culex (Lutzia) fuscanus on mosquito vectors of
        human diseases in Sri Lanka. J Am Mosquito Contr 29, 168-170 (2013);
@@ -4579,7 +4579,7 @@ Table S2: Ae. aegypti references
        Zoonotic Dis 10, 489-495 (2010);
 
 
-                                                                                      79  
+	                                                                                     79	  
 18416. V. Vanlerberghe, M. E. Toledo, M. Rodriguez, D. Gomez, A. Baly, J. R. Benitez, P.
        Van der Stuyft, Community involvement in dengue vector control: cluster
        randomised trial. BMJ 338, b1959 (2009);
@@ -4637,7 +4637,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          80  
+	                                                                                         80	  
 18432. P. Yanez, E. Mamani, J. Valle, M. P. Garcia, W. Leon, P. Villaseca, D. Torres, C.
        Cabezas, [Genetic variability of Aedes aegypti determined by mitochondrial gene
        ND4 analysis in eleven endemic areas for dengue in Peru]. Revista peruana de
@@ -4691,7 +4691,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         81  
+	                                                                                        81	  
 Table S3: Ae. albopictus references
 
 70.    R. Ahmad, A. Ismail, Z. Saat, L. H. Lim, Detection of dengue virus from field Aedes
@@ -4749,7 +4749,7 @@ Table S2: Ae. aegypti references
        P. R. Urbinatti, J. M. Barata, [Aedes albopictus in rural zone of Brazil and its
 
 
-                                                                                         82  
+	                                                                                        82	  
          implication in the wild yellow fever transmission]. Revista de Saude Publica 33, 95-
          97 (1999);
 2526.    E. C. Mallet, P. Gestas, H. Pilorget, H. Bataille, [Hemorrhagic dengue with shock in
@@ -4807,7 +4807,7 @@ Table S2: Ae. aegypti references
          Aedes mosquitoes. Ecological Entomology 21, 117-127 (1996);
 
 
-                                                                                            83  
+	                                                                                           83	  
 10851. N. W. Beebe, P. I. Whelan, A. F. Van den Hurk, S. A. Ritchie, S. Corcoran, R. D.
        Cooper, A polymerase chain reaction-based diagnostic to identify larvae and eggs of
        container mosquito species from the Australian region. Journal of Medical
@@ -4865,8 +4865,8 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                            84  
-         albopictus and Aedes aegypti can be found]. Revista de Sa�de P�blica 40, 1106-1011
+	                                                                                           84	  
+         albopictus and Aedes aegypti can be found]. Revista de Saúde Pública 40, 1106-1011
          (2006);
 11187.   G. A. de Carvalho, C. F. S. Andrade, M. T. Ueta, Experimental infection of Aedes
          albopictus (Diptera : Culicidae) larvae with the xiphidiocercariae of a hematolechid.
@@ -4923,12 +4923,12 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           85  
+	                                                                                          85	  
 11353. D. Fontenille, C. Mathiot, F. Rodhain, P. Coulanges, [Arbovirus infections on the
        island of Nosy-Be; serologic and entomologic findings]. Archives de l'Institut Pasteur
        de Madagascar 54, 101-115 (1988);
 11354. D. Fontenille, C. Mathiot, F. Rodhain, P. Coulanges, [Arboviroses in the region of
-       Nosy-Be, Madagascar. Serologic and entomologic data]. Bulletin De La Soci�t� De
+       Nosy-Be, Madagascar. Serologic and entomologic data]. Bulletin De La Société De
        Pathologie Exotique Et De Ses Filiales 81, 58-70 (1988);
 11355. D. Fontenille, F. Rodhain, Biology and distribution of Aedes albopictus and Aedes
        aegypti in Madagascar. Journal of the American Mosquito Control Association 5,
@@ -4981,11 +4981,11 @@ Table S2: Ae. aegypti references
        data on the performance of Aedes aegypti and Aedes albopictus immatures
 
 
-                                                                                          86  
+	                                                                                         86	  
          developing in water-filled tires in Rio de Janeiro. Memorias Do Instituto Oswaldo
          Cruz 101, 225-228 (2006);
 11585.   N. A. Honorio, R. Lourenco-De-Oliveira, [Frequency of Aedes aegypti and Aedes
-         albopictus larvae and pupae in traps, Brazil]. Revista de Sa�de P�blica 35, 385-391
+         albopictus larvae and pupae in traps, Brazil]. Revista de Saúde Pública 35, 385-391
          (2001);
 11586.   N. A. Honorio, W. D. Silva, P. J. Leite, J. M. Goncalves, L. P. Lounibos, R.
          Lourenco-de-Oliveira, Dispersal of Aedes aegypti and Aedes albopictus (Diptera :
@@ -5039,7 +5039,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           87  
+	                                                                                          87	  
 11672. S. A. Juliano, G. F. O'Meara, J. R. Morrill, M. M. Cutwa, Desiccation and thermal
        tolerance of eggs and the coexistence of competing mosquitoes. Oecologia 130, 458-
        469 (2002);
@@ -5097,7 +5097,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          88  
+	                                                                                         88	  
 11864. H. M. Lin, C. S. Chen, C. C. Hsu, C. L. Chung, [Dengue vector density survey in
        Liuchiu, Pintung, Taiwan]. Chinese Journal of Microbiology and Immunology -
        Zhonghua Min Guo Wei Sheng Wu Ji Mian Yi Xue Za Zhi 19, 218-223 (1986);
@@ -5155,7 +5155,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         89  
+	                                                                                        89	  
 12082. M. Mogi, I. Miyagi, K. Abadi, Syafruddin, Inter- and intraspecific variation in
        resistance to desiccation by adult Aedes (Stegomyia) spp. (Diptera: Culicidae) from
        Indonesia. Journal of Medical Entomology 33, 53-57 (1996);
@@ -5195,7 +5195,7 @@ Table S2: Ae. aegypti references
        in Florida by Aedes albopictus. Journal of the American Mosquito Control
        Association 8, 1-10 (1992);
 12250. H. Orta-Pesina, R. Mercado-Hernandez, J. F. Elizondo-Leal, [Distribution of Aedes
-       albopictus (Skuse) in Nuevo Leon, Mexico, 2001-2004.]. Salud P�blica de M�xico
+       albopictus (Skuse) in Nuevo Leon, Mexico, 2001-2004.]. Salud Pública de México
        47, 163-165 (2005);
 12258. V. S. Padbidri, P. Adhikari, J. P. Thakare, M. A. Ilkal, G. D. Joshi, P. Pereira, S. N.
        Guttikar, B. D. Walhekar, N. Chowta, B. M. Hegde, The 1993 epidemic of dengue
@@ -5213,7 +5213,7 @@ Table S2: Ae. aegypti references
        Journal of Vector Ecology 28, 208-212 (2003);
 
 
-                                                                                          90  
+	                                                                                         90	  
 12319. C. M. Perez, C. F. Marina, J. G. Bond, J. C. Rojas, J. Valle, T. Williams, Spinosad, a
        naturally derived insecticide, for control of Aedes aegypti (Diptera: Culicidae):
        efficacy, persistence, and elicited oviposition response. Journal of Medical
@@ -5271,7 +5271,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          91  
+	                                                                                         91	  
 12484. S. A. Ritchie, P. Moore, M. Carruthers, C. Williams, B. Montgomery, P. Foley, S.
        Ahboo, A. F. van den Hurk, M. D. Lindsay, B. Cooper, N. Beebe, R. C. Russell,
        Discovery of a widespread infestation of Aedes albopictus in the Torres Strait,
@@ -5313,8 +5313,8 @@ Table S2: Ae. aegypti references
        urban housing of Sibu town, Sarawak. Southeast Asian Journal of Tropical Medicine
        and Public Health 25, 543-548 (1994);
 12661. L. L. Serpa, K. V. Costa, J. C. Voltolini, I. Kakitani, [Seasonal variation of Aedes
-       aegypti and Aedes albopictus in a city of Southeastern Brazil]. Revista de Sa�de
-       P�blica 40, 1101-1105 (2006);
+       aegypti and Aedes albopictus in a city of Southeastern Brazil]. Revista de Saúde
+       Pública 40, 1101-1105 (2006);
 12681. S. K. Sharma, K. Padhan, Y. Rath, S. K. Rao, Observations on the breeding habitat of
        Aedes species in the steel township, Rourkela. Journal of Communicable Diseases
        33, 28-35 (2001);
@@ -5329,7 +5329,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       92  
+	                                                                                      92	  
 12706. F. Simard, E. Nchoutpouen, J. C. Toto, D. Fontenille, Geographic distribution and
        breeding site preference of Aedes albopictus and Aedes aegypti (Diptera: culicidae)
        in Cameroon, Central Africa. Journal of Medical Entomology 42, 726-731 (2005);
@@ -5387,7 +5387,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           93  
+	                                                                                          93	  
 12903. J. D. Trexler, C. S. Apperson, C. Gemeno, M. J. Perich, D. Carlson, C. Schal, Field
        and laboratory evaluations of potential oviposition attractants for Aedes albopictus
        (Diptera : Culicidae). Journal of the American Mosquito Control Association 19, 228-
@@ -5445,7 +5445,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          94  
+	                                                                                         94	  
 13164. D. J. Gubler, L. Rosen, Variation among geographic strains of Aedes albopictus in
        susceptibility to infection with dengue viruses. American Journal of Tropical
        Medicine and Hygiene 25, 318-325 (1976);
@@ -5503,7 +5503,7 @@ Table S2: Ae. aegypti references
        Genetics 121, 539-550 (1989);
 
 
-                                                                                          95  
+	                                                                                         95	  
 13249. D. D. Chadee, P. S. Corbet, Diel pattern of oviposition in the laboratory of the
        mosquito Aedes albopictus (Skuse) (Diptera: Culicidae). Annals of Tropical Medicine
        and Parasitology 83, 423-429 (1989);
@@ -5561,7 +5561,7 @@ Table S2: Ae. aegypti references
        304 (1990);
 
 
-                                                                                               96  
+	                                                                                              96	  
 13280. J. P. Smith, T. M. Loyless, J. A. Mulrennan, Jr., An update on Aedes albopictus in
        Florida. Journal of the American Mosquito Control Association 6, 318-320 (1990);
 13285. Anonymous, Aedes albopictus introduction into continental Africa, 1991. MMWR
@@ -5619,7 +5619,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         97  
+	                                                                                        97	  
 13328. E. M. Zytoon, H. I. el-Belbasi, E. Konishi, T. Matsumura, Susceptibility of Aedes
        albopictus mosquitoes (Oahu strain) to infection with Dirofilaria immitis. Kobe
        Journal of Medical Sciences 38, 289-305 (1992);
@@ -5677,7 +5677,7 @@ Table S2: Ae. aegypti references
        Mosquito Control Association 10, 501-506 (1994);
 
 
-                                                                                        98  
+	                                                                                       98	  
 13376. T. Sota, M. Mogi, E. Hayamizu, Habitat Stability and the Larval Mosquito
        Community in Treeholes and Other Containers on a Temperate Island. Researches on
        Population Ecology 36, 93-104 (1994);
@@ -5735,12 +5735,12 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         99  
+	                                                                                        99	  
 13413. C. J. Mitchell, G. C. Smith, N. Karabatsos, C. G. Moore, D. B. Francy, R. S. Nasci,
        Isolations of Potosi virus from mosquitoes collected in the United States, 1989-94.
        Journal of the American Mosquito Control Association 12, 1-7 (1996);
 13418. A. L. Sant'Ana, [First recorded occurrence of Aedes (Stegomyia) albopictus (Skuse)
-       in the southeastern region of Brazil]. Revista de Sa�de P�blica 30, 392-393 (1996);
+       in the southeastern region of Brazil]. Revista de Saúde Pública 30, 392-393 (1996);
 13419. L. U. Santos, F. S. Andrade, G. A. Carvalho, Biological control of Aedes albopictus
        (Diptera: Culicidae) larvae in trap tyres by Mesocyclops longisetus (Copepoda:
        Cyclopidae) in two field trials. Memorias Do Instituto Oswaldo Cruz 91, 161-162
@@ -5765,7 +5765,7 @@ Table S2: Ae. aegypti references
 13437. D. Natal, P. R. Urbinatti, C. B. Taipe-Lagos, W. Cereti Junior, A. T. Diederichsen, R.
        G. Souza, R. P. Souza, [Aedes (Stegomyia) albopictus (Skuse) breeding in
        Bromeliaceae in the outskirts of an urban area of the city of Sao Paulo, Brazil].
-       Revista de Sa�de P�blica 31, 517-518 (1997);
+       Revista de Saúde Pública 31, 517-518 (1997);
 13442. T. Sunahara, M. Mogi, Distributions of larval mosquitoes among bamboo-stump
        pools which vary in persistence and resource input. Researches on Population
        Ecology 39, 173-179 (1997);
@@ -5779,7 +5779,7 @@ Table S2: Ae. aegypti references
        Mato Grosso do Sul, Brazil]. Revista de Saude Publica 32, 486-486 (1998);
 13450. O. P. Forattini, G. R. Marques, I. Kakitani, M. de Brito, M. A. Sallum,
        [Epidemiologic significance of Aedes albopictus breeding places in bromeliads].
-       Revista de Sa�de P�blica 32, 186-188 (1998);
+       Revista de Saúde Pública 32, 186-188 (1998);
 13451. U. Kitron, J. Swanson, M. Crandell, P. J. Sullivan, J. Anderson, R. Garro, L. D.
        Haramis, P. R. Grimstad, Introduction of Aedes albopictus into a La Crosse virus -
        Enzootic site in Illinois. Emerging Infectious Diseases 4, 627-630 (1998);
@@ -5793,7 +5793,7 @@ Table S2: Ae. aegypti references
        (1998);
 
 
-                                                                                         100  
+	                                                                                        100	  
 13459. H. J. Teng, Y. L. Wu, C. L. Chung, L. C. Lu, C. Tseng, S. J. Wang, M. H. Hsue, T.
        H. Lin, [The density and larval habitats of dengue vectors in Chungho city].
        Kaohsiung Journal of Medical Sciences - Gaoxiong Yi Xue Ke Xue Za Zhi 14, 754-
@@ -5803,7 +5803,7 @@ Table S2: Ae. aegypti references
        (SKUSE) and Culex quinquefasciatus (SAY) in a tropical environment. Journal of
        Vector Ecology 23, 62-68 (1998);
 13461. S. M. Ahid, R. Lourenco-De-Oliveira, [Mosquitoes potential vectors of canine
-       heartworm in the Northeast Region from Brazil]. Revista de Sa�de P�blica 33, 560-
+       heartworm in the Northeast Region from Brazil]. Revista de Saúde Pública 33, 560-
        565 (1999);
 13465. R. F. Darsie, Description of the pupa of Aedes cretinus Edwards, a key to the pupae
        of the albopictus subgroup, subgenus Stegomyia Theobald, genus Aedes Meigen, and
@@ -5823,16 +5823,16 @@ Table S2: Ae. aegypti references
        1995 and 1996. Journal of Microbiology Immunology and Infection 32, 9-13 (1999);
 13480. C. M. de Albuquerque, M. A. Melo-Santos, M. A. Bezerra, R. M. Barbosa, D. F.
        Silva, E. da Silva, [First report of Aedes albopictus in areas of Mata Atlantica, Recife,
-       PE, Brazil]. Revista de Sa�de P�blica 34, 314-315 (2000);
+       PE, Brazil]. Revista de Saúde Pública 34, 314-315 (2000);
 13481. O. P. Forattini, I. Kakitani, R. L. dos Santos, K. M. Kobayashi, H. M. Ueno, Z.
        Fernandez, [Adult Aedes albopictus and Ae. scapularis behavior (Diptera: Culicidae
-       in Southeastern Brazil]. Revista de Sa�de P�blica 34, 461-467 (2000);
+       in Southeastern Brazil]. Revista de Saúde Pública 34, 461-467 (2000);
 13486. R. Romi, M. Di Luca, W. Raineri, M. Pesce, A. Rey, S. Giovannangeli, F. Zanasi, A.
        Bella, Laboratory and field evaluation of metallic copper on Aedes albopictus
        (Diptera : Culicidae) larval development. Journal of Medical Entomology 37, 281-
        285 (2000);
 13487. F. Schaffner, S. Karch, [First report of Aedes albopictus (Skuse, 1984) in
-       metropolitan France]. Comptes Rendus de l'Acad�mie des Sciences. S�rie III,
+       metropolitan France]. Comptes Rendus de l'Académie des Sciences. Série III,
        Sciences de la vie 323, 373-375 (2000);
 13488. D. Strickman, T. Gaffigan, R. A. Wirtz, M. Q. Benedict, C. S. Rafferty, R. S.
        Barwick, H. A. Williams, Mosquito collections following local transmission of
@@ -5847,11 +5847,11 @@ Table S2: Ae. aegypti references
        Heredity 84 ( Pt 3), 331-337 (2000);
 13493. M. Di Luca, L. Toma, F. Severini, F. D'Ancona, R. Romi, [Aedes albopictus in
        Rome: monitoring in the 3-year period of 1998-2000]. Annali dell'Istituto Superiore
-       di Sanit� 37, 249-254 (2001);
+       di Sanità 37, 249-254 (2001);
 
 
 
-                                                                                           101  
+	                                                                                          101	  
 13497. R. R. Gerhardt, K. L. Gottfried, C. S. Apperson, B. S. Davis, P. C. Erwin, A. B.
        Smith, N. A. Panella, E. E. Powell, R. S. Nasci, First isolation of La Crosse virus
        from naturally infected Aedes albopictus. Emerging Infectious Diseases 7, 807-811
@@ -5864,7 +5864,7 @@ Table S2: Ae. aegypti references
        Taiwan to natural infections of Dirofilaria immitis. Medical and Veterinary
        Entomology 15, 64-67 (2001);
 13502. G. R. Marques, R. L. Santos, O. P. Forattini, [Aedes albopictus in bromeliads of
-       anthropic environment in Sao Paulo State, Brazil]. Revista de Sa�de P�blica 35, 243-
+       anthropic environment in Sao Paulo State, Brazil]. Revista de Saúde Pública 35, 243-
        248 (2001);
 13504. J. P. Moore, New Nebraska mosquito distribution records. Journal of the American
        Mosquito Control Association 17, 262-264 (2001);
@@ -5884,7 +5884,7 @@ Table S2: Ae. aegypti references
        independent invasion into Brazil and United States. Annals of the Entomological
        Society of America 95, 125-132 (2002);
 13518. D. C. Calado, M. A. Silva, [Evaluation of the temperature influence on the
-       development of Aedes albopictus]. Revista de Sa�de P�blica 36, 173-179 (2002);
+       development of Aedes albopictus]. Revista de Saúde Pública 36, 173-179 (2002);
 13519. H. Chen, H. B. Chen, [Changes in element content in Aedes albopictus infected by
        dengue virus type II]. Chinese Journal of Parasitology & Parasitic Diseases -
        Zhongguo Ji Sheng Chong Xue Yu Ji Sheng Chong Bing Za Zhi 20, 171-173 (2002);
@@ -5909,7 +5909,7 @@ Table S2: Ae. aegypti references
        Hygiene 66, 108-111 (2002);
 
 
-                                                                                         102  
+	                                                                                        102	  
 13531. P. Kittayapong, P. Mongkalangoon, V. Baimai, S. L. O'Neill, Host age effect and
        expression of cytoplasmic incompatibility in field populations of Wolbachia-
        superinfected Aedes albopictus. Heredity 88, 270-274 (2002);
@@ -5917,7 +5917,7 @@ Table S2: Ae. aegypti references
        albopictus (Diptera: Culicidae) in Japan by geographical information system. Journal
        of Medical Entomology 39, 4-11 (2002);
 13533. P. Lowenberg-Neto, M. A. Navarro-Silva, [First report of Aedes albopictus in the
-       state of Santa Catarina, Brazil]. Revista de Sa�de P�blica 36, 246-247 (2002);
+       state of Santa Catarina, Brazil]. Revista de Saúde Pública 36, 246-247 (2002);
 13535. Y. Shirai, H. Funada, K. Kamimura, T. Seki, M. Morohashi, Landing sites on the
        human body preferred by Aedes albopictus. Journal of the American Mosquito
        Control Association 18, 97-99 (2002);
@@ -5945,9 +5945,9 @@ Table S2: Ae. aegypti references
        2002)]. Revista de Saude Publica 37, 671-673 (2003);
 13546. N. F. Fe, M. das Gracas Vale Barbosa, W. D. Alecrim, M. V. Guerra, Registration of
        the occurrence of Aedes albopictus in an urban zone in Manaus, Amazonas, Brazil.
-       Revista de Sa�de P�blica 37, 674-675 (2003);
+       Revista de Saúde Pública 37, 674-675 (2003);
 13547. Z. Fernandez, O. P. Forattini, [Survival of Aedes albopictus: physiological age and
-       reproductive history]. Revista de Sa�de P�blica 37, 285-291 (2003);
+       reproductive history]. Revista de Saúde Pública 37, 285-291 (2003);
 13548. Z. Fernandez, A. C. Moncayo, A. S. Carrara, O. P. Forattini, S. C. Weaver, Vector
        competence of rural and urban strains of Aedes (Stegomyia) albopictus (Diptera :
        Culicidae) from Sao Paulo State, Brazil for IC, ID, and IF subtypes of Venezuelan
@@ -5967,7 +5967,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       103  
+	                                                                                      103	  
          fever viruses of Aedes albopictus from Brazil, the United States, and the Cayman
          Islands. American Journal of Tropical Medicine and Hygiene 69, 105-114 (2003);
 13562.   M. Pombi, C. Costantini, A. della Torre, [Aedes albopictus (Diptera: Culicidae) in
@@ -5978,7 +5978,7 @@ Table S2: Ae. aegypti references
          Mosquito Control Association 19, 139-147 (2003);
 13565.   N. Segura Mde, H. A. Monteiro, S. Lopes Eda, O. V. da Silva, F. C. Castro, P. F.
          Vasconcelos, [Occurrence of Aedes albopictus in the state of Para, Brazil]. Revista de
-         Sa�de P�blica 37, 388-389 (2003);
+         Saúde Pública 37, 388-389 (2003);
 13570.   T. Chareonviriyaphap, P. Akratanakul, S. Huntamai, S. Nettanomsak, A. Prabaripai,
          Allozyme patterns of Aedes albopictus, a vector of dengue in Thailand. Journal of
          Medical Entomology 41, 657-663 (2004);
@@ -6016,7 +6016,7 @@ Table S2: Ae. aegypti references
 13600.   V. L. Camargo-Neves, D. W. Poletto, L. A. Rodas, M. L. Pachioli, R. P. Cardoso, S.
          A. Scandar, S. M. Sampaio, P. H. Koyanagui, M. V. Botti, L. F. Mucci, C. Gomes
          Ade, Entomological investigation of a sylvatic yellow fever area in Sao Paulo State,
-         Brazil. Cadernos de Sa�de P�blica 21, 1278-1286 (2005);
+         Brazil. Cadernos de Saúde Pública 21, 1278-1286 (2005);
 13608.   A. D. Gomes, J. M. P. de Souza, D. P. Bergamaschi, J. L. F. Dos Santos, V. R.
          Andrade, O. F. Leite, O. Rangel, S. S. L. de Souza, N. S. N. Guimaraes, V. L. C. de
          Lima, Anthropophilic activity of Aedes aegypti and of Aedes albopictus in area under
@@ -6025,7 +6025,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           104  
+	                                                                                          104	  
 13611. D. A. LaPointe, M. L. Goff, C. T. Atkinson, Comparative susceptibility of introduced
        forest dwelling mosquitoes in Hawai'i to avian malaria, Plasmodium relictum.
        Journal of Parasitology 91, 843-849 (2005);
@@ -6034,7 +6034,7 @@ Table S2: Ae. aegypti references
        Identification of Aedes albopictus in urban Nicaragua. Journal of the American
        Mosquito Control Association 21, 325-327 (2005);
 13614. G. R. Marques, O. P. Forattini, [Aedes albopictus in soil bromeliads in Ilhabela,
-       coastal area of Southeastern Brazil]. Revista de Sa�de P�blica 39, 548-552 (2005);
+       coastal area of Southeastern Brazil]. Revista de Saúde Pública 39, 548-552 (2005);
 13619. A. Ponlanwat, L. C. Harrington, Blood feeding patterns of Aedes aegypti and Aedes
        albopictus in Thailand. Journal of Medical Entomology 42, 844-849 (2005);
 13620. D. R. Smith, A. S. Carrara, P. V. Aguilar, S. C. Weaver, Evaluation of methods to
@@ -6046,13 +6046,13 @@ Table S2: Ae. aegypti references
        Malaysia. Tropical Biomedicine 23, 85-96 (2006);
 13631. P. S. de Almeida, A. D. Ferreira, V. L. Pereira, M. G. Fernandes, W. D. Fernandes,
        [Spatial distribution of Aedes albopictus in the southern area of Mato Grosso do Sul
-       State, Brazil]. Revista de Sa�de P�blica 40, 1094-1100 (2006);
+       State, Brazil]. Revista de Saúde Pública 40, 1094-1100 (2006);
 13636. A. Klobucar, E. Merdic, N. Benic, Z. Baklaic, S. Krcmar, First record of Aedes
        albopictus in Croatia. Journal of the American Mosquito Control Association 22,
        147-148 (2006);
 13641. V. E. Martins, M. G. Martins, J. M. de Araujo, L. O. Silva, H. A. Monteiro, F. C.
        Castro, P. F. Vasconcelos, M. I. Guedes, [First report of Aedes (Stegomyia)
-       albopictus in the state of Ceara, Brazil]. Revista de Sa�de P�blica 40, 737-739
+       albopictus in the state of Ceara, Brazil]. Revista de Saúde Pública 40, 737-739
        (2006);
 13649. N. R. Powers, K. Cox, R. Romero, M. A. DiMenna, The reintroduction and possible
        establishment of Aedes albopictus in New Mexico. Journal of the American Mosquito
@@ -6083,7 +6083,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       105  
+	                                                                                      105	  
 13684. D. A. Yee, B. Kesavaraju, S. A. Juliano, Direct and indirect effects of animal detritus
        on growth, survival, and mass of invasive container mosquito Aedes albopictus
        (Diptera : Culicidae). Journal of Medical Entomology 44, 580-588 (2007);
@@ -6141,7 +6141,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         106  
+	                                                                                        106	  
 13967. N. P. Kumar, R. Joseph, T. Kamaraj, P. Jambulingam, A226V mutation in virus
        during the 2007 chikungunya outbreak in Kerala, India. Journal of General Virology
        89, 1945-1948 (2008);
@@ -6199,7 +6199,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         107  
+	                                                                                        107	  
 14123. C. D. Chen, A. H. Azahari, I. Saadiyah, H. L. Lee, Preliminary study on the
        effectiveness of mosquito repelling lamp, E Da. Tropical Biomedicine 24, 89-91
        (2007);
@@ -6257,7 +6257,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         108  
+	                                                                                        108	  
          viruses of Aedes albopictus from Brazil, the United States, and the Cayman Islands.
          American Journal of Tropical Medicine and Hygiene 69, 105-114 (2003);
 14689.   V. C. Feres, C. M. Martelli, M. D. Turchi, J. B. Junior, R. M. Nogueira, B. A. Rocha,
@@ -6266,7 +6266,7 @@ Table S2: Ae. aegypti references
          183 (2006);
 14763.   N. A. Honorio, M. G. Castro, F. S. de Barros, A. Magalhaes Mde, P. C. Sabroza, The
          spatial distribution of Aedes aegypti and Aedes albopictus in a transition zone, Rio de
-         Janeiro, Brazil. Cadernos de Sa�de P�blica 25, 1203-1214 (2009);
+         Janeiro, Brazil. Cadernos de Saúde Pública 25, 1203-1214 (2009);
 14864.   N. T. P. Lan, M. Kikuchi, V. T. Q. Huong, D. Q. Ha, T. T. Thuy, V. D. Tham, H. M.
          Tuan, V. Van Tuong, C. T. P. Nga, T. Van Dat, T. Oyama, K. Morita, M. Yasunami,
          K. Hirayama, Protective and Enhancing HLA Alleles, HLA-DRB1*0901 and HLA-
@@ -6315,7 +6315,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           109  
+	                                                                                          109	  
 18447. R. Gopalakrishnan, M. Das, I. Baruah, V. Veer, P. Dutta, Physicochemical
        characteristics of habitats in relation to the density of container-breeding mosquitoes
        in Asom, India. J Vector Borne Dis 50, 215-219 (2013);
@@ -6373,7 +6373,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                         110  
+	                                                                                        110	  
 18463. S. D. Padilla-Torres, G. Ferraz, S. L. Luz, E. Zamora-Perea, F. Abad-Franch,
        Modeling dengue vector dynamics under imperfect detection: three years of site-
        occupancy by Aedes aegypti and Aedes albopictus in urban Amazonia. PLoS One 8,
@@ -6431,7 +6431,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           111  
+	                                                                                          111	  
 18478. D. Porretta, V. Mastrantonio, R. Bellini, P. Somboon, S. Urbanelli, Glacial history of
        a modern invader: phylogeography and species distribution modelling of the Asian
        tiger mosquito Aedes albopictus. PLoS One 7, e44515 (2012);
@@ -6489,7 +6489,7 @@ Table S2: Ae. aegypti references
        (2011);
 
 
-                                                                                         112  
+	                                                                                        112	  
 18496. P. V. Nunn, W. K. Reeves, C. M. Utter, New records for Micronesian mosquitoes. J
        Am Mosquito Contr 27, 300-302 (2011);
 18497. R. K. Singh, R. C. Dhiman, V. K. Dua, Prevalence of Aedes aegypti Linnaeus and
@@ -6547,7 +6547,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       113  
+	                                                                                      113	  
 18513. C. X. Li, Y. D. Dong, X. L. Zhang, C. Chen, S. P. Song, B. Deng, T. Y. Zhao, R. D.
        Xue, Evaluation of octenol and Lurex as baits in Mosquito Magnet Pro traps to
        collect vector mosquitoes in China. J Am Mosquito Contr 26, 449-451 (2010);
@@ -6605,7 +6605,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                        114  
+	                                                                                       114	  
          Chikungunya fever affected areas of Kerala State, India. J Commun Dis 42, 157-159
          (2010);
 18530.   K. Sawabe, H. Isawa, K. Hoshino, T. Sasaki, S. Roychoudhury, Y. Higa, S. Kasai, Y.
@@ -6663,7 +6663,7 @@ Table S2: Ae. aegypti references
          Herve, E. Leroy, F. Simard, Comparative role of Aedes albopictus and Aedes aegypti
 
 
-                                                                                             115  
+	                                                                                            115	  
          in the emergence of Dengue and Chikungunya in central Africa. Vector Borne
          Zoonotic Dis 10, 259-266 (2010);
 18545.   M. Vazeille, L. Mousson, A. B. Failloux, Failure to demonstrate experimental vertical
@@ -6721,7 +6721,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                            116  
+	                                                                                           116	  
 18562. M. Sahani, H. Othman, N. A. M. Nor, R. Hod, Z. M. Ali, M. N. M. Rasidi, E. A.
        Choy, Ecology Survey on Aedes Mosquito in Senawang, Negeri Sembilan. Sains
        Malays 41, 261-269 (2012);
@@ -6779,7 +6779,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                          117  
+	                                                                                         117	  
          investigations of flavivirus prevalence in Khammouane Province, Lao People's
          Democratic Republic, 2007-2008. Am J Trop Med Hyg 83, 1166-1169 (2010);
 18578.   L. Kaplan, D. Kendell, D. Robertson, T. Livdahl, C. Khatchikian, Aedes aegypti and
@@ -6837,7 +6837,7 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                           118  
+	                                                                                          118	  
 18592. P. Thongsripong, A. Green, P. Kittayapong, D. Kapan, B. Wilcox, S. Bennett,
        Mosquito Vector Diversity across Habitats in Central Thailand Endemic for Dengue
        and Other Arthropod-Borne Diseases. PLoS Negl Trop Dis 7, e2507 (2013);
@@ -6869,5 +6869,5 @@ Table S2: Ae. aegypti references
 
 
 
-                                                                                       119  
+	                                                                                      119	  
 
