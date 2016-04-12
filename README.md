@@ -19,6 +19,18 @@ _Aedes aegypti_ http://www.gbif.org/species/1651891
 _Aedes albopictus_ http://www.gbif.org/species/1651430
 ![Map](https://github.com/rdmpage/global-distribution-arbovirus-vectors/raw/master/docs/1651430.png)
 
+### CrossRef
+
+https://api.crossref.org/v1/works/http://dx.doi.org/10.1038/sdata.2015.35
+
+https://api.crossref.org/v1/works/http://dx.doi.org/10.7554/elife.08347
+
+http://data.fundref.org/fundref/funder/10.13039/100004431
+
+### Tools
+
+Validate EML http://tools.gbif.org/dwca-validator/eml.do
+
 
 ## References
 

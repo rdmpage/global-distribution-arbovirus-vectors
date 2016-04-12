@@ -1,0 +1,127 @@
+{
+	"status": "ok",
+	"message-type": "work",
+	"message-version": "1.0.0",
+	"message": {
+		"indexed": {
+			"date-parts": [
+				[2015, 12, 20]
+			],
+			"date-time": "2015-12-20T18:19:48Z",
+			"timestamp": 1450635588143
+		},
+		"reference-count": 32,
+		"publisher": "Nature Publishing Group",
+		"DOI": "10.1038\/sdata.2015.35",
+		"type": "journal-article",
+		"created": {
+			"date-parts": [
+				[2015, 7, 6]
+			],
+			"date-time": "2015-07-06T14:59:38Z",
+			"timestamp": 1436194778000
+		},
+		"page": "150035",
+		"source": "CrossRef",
+		"title": ["The global compendium of Aedes aegypti and Ae. albopictus occurrence"],
+		"prefix": "http:\/\/id.crossref.org\/prefix\/10.1038",
+		"volume": "2",
+		"author": [{
+			"affiliation": [],
+			"family": "Kraemer",
+			"given": "Moritz U. G."
+		}, {
+			"affiliation": [],
+			"family": "Sinka",
+			"given": "Marianne E."
+		}, {
+			"affiliation": [],
+			"family": "Duda",
+			"given": "Kirsten A."
+		}, {
+			"affiliation": [],
+			"family": "Mylne",
+			"given": "Adrian"
+		}, {
+			"affiliation": [],
+			"family": "Shearer",
+			"given": "Freya M."
+		}, {
+			"affiliation": [],
+			"family": "Brady",
+			"given": "Oliver J."
+		}, {
+			"affiliation": [],
+			"family": "Messina",
+			"given": "Jane P."
+		}, {
+			"affiliation": [],
+			"family": "Barker",
+			"given": "Christopher M."
+		}, {
+			"affiliation": [],
+			"family": "Moore",
+			"given": "Chester G."
+		}, {
+			"affiliation": [],
+			"family": "Carvalho",
+			"given": "Roberta G."
+		}, {
+			"affiliation": [],
+			"family": "Coelho",
+			"given": "Giovanini E."
+		}, {
+			"affiliation": [],
+			"family": "Van Bortel",
+			"given": "Wim"
+		}, {
+			"affiliation": [],
+			"family": "Hendrickx",
+			"given": "Guy"
+		}, {
+			"affiliation": [],
+			"family": "Schaffner",
+			"given": "Francis"
+		}, {
+			"affiliation": [],
+			"family": "Wint",
+			"given": "G. R. William"
+		}, {
+			"affiliation": [],
+			"family": "Elyazar",
+			"given": "Iqbal R. F."
+		}, {
+			"affiliation": [],
+			"family": "Teng",
+			"given": "Hwa-Jen"
+		}, {
+			"affiliation": [],
+			"family": "Hay",
+			"given": "Simon I."
+		}],
+		"member": "http:\/\/id.crossref.org\/member\/339",
+		"published-online": {
+			"date-parts": [
+				[2015, 7, 7]
+			]
+		},
+		"container-title": ["Scientific Data", "Sci. Data"],
+		"deposited": {
+			"date-parts": [
+				[2015, 7, 6]
+			],
+			"date-time": "2015-07-06T14:59:38Z",
+			"timestamp": 1436194778000
+		},
+		"score": 1.0,
+		"subtitle": [],
+		"issued": {
+			"date-parts": [
+				[2015, 7, 7]
+			]
+		},
+		"alternative-id": ["sdata201535"],
+		"URL": "http:\/\/dx.doi.org\/10.1038\/sdata.2015.35",
+		"ISSN": ["2052-4463"]
+	}
+}

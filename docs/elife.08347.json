@@ -1,0 +1,238 @@
+{
+	"status": "ok",
+	"message-type": "work",
+	"message-version": "1.0.0",
+	"message": {
+		"indexed": {
+			"date-parts": [
+				[2015, 12, 20]
+			],
+			"date-time": "2015-12-20T18:46:55Z",
+			"timestamp": 1450637215976
+		},
+		"reference-count": 125,
+		"publisher": "eLife Sciences Organisation, Ltd.",
+		"license": [{
+			"content-version": "vor",
+			"delay-in-days": 0,
+			"start": {
+				"date-parts": [
+					[2015, 6, 30]
+				],
+				"date-time": "2015-06-30T00:00:00Z",
+				"timestamp": 1435622400000
+			},
+			"URL": "http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+		}, {
+			"content-version": "am",
+			"delay-in-days": 0,
+			"start": {
+				"date-parts": [
+					[2015, 6, 30]
+				],
+				"date-time": "2015-06-30T00:00:00Z",
+				"timestamp": 1435622400000
+			},
+			"URL": "http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+		}, {
+			"content-version": "tdm",
+			"delay-in-days": 0,
+			"start": {
+				"date-parts": [
+					[2015, 6, 30]
+				],
+				"date-time": "2015-06-30T00:00:00Z",
+				"timestamp": 1435622400000
+			},
+			"URL": "http:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+		}],
+		"funder": [{
+			"award": [],
+			"doi-asserted-by": "publisher",
+			"name": "Rhodes Scholarships",
+			"DOI": "10.13039\/501100000697"
+		}, {
+			"award": ["R01-AI069341", "N01-A1-25489", "R01-GM08322", "RAPIDD program", "R01-AI091980"],
+			"doi-asserted-by": "publisher",
+			"name": "National Institutes of Health",
+			"DOI": "10.13039\/100000002"
+		}, {
+			"award": ["#NNX15AF36G"],
+			"doi-asserted-by": "publisher",
+			"name": "National Aeronautics and Space Administration",
+			"DOI": "10.13039\/100000104"
+		}, {
+			"award": [],
+			"doi-asserted-by": "publisher",
+			"name": "Biotechnology and Biological Sciences Research Council",
+			"DOI": "10.13039\/501100000268"
+		}, {
+			"award": ["#21803"],
+			"doi-asserted-by": "publisher",
+			"name": "Directorate-General for Research and Innovation",
+			"DOI": "10.13039\/100004431"
+		}, {
+			"award": ["ECDC\/09\/018"],
+			"doi-asserted-by": "publisher",
+			"name": "European Centre for Disease Prevention and Control",
+			"DOI": "10.13039\/501100000805"
+		}, {
+			"award": ["#099872", "#095066", "Vecnet"],
+			"doi-asserted-by": "publisher",
+			"name": "Wellcome Trust",
+			"DOI": "10.13039\/100004440"
+		}, {
+			"award": ["#OPP1053338", "#OPP52250"],
+			"doi-asserted-by": "publisher",
+			"name": "Bill and Melinda Gates Foundation",
+			"DOI": "10.13039\/100000865"
+		}, {
+			"award": [],
+			"doi-asserted-by": "publisher",
+			"name": "Studienstiftung des Deutschen Volkes",
+			"DOI": "10.13039\/501100004350"
+		}, {
+			"award": [],
+			"name": "Sir Richard Southwood Graduate Scholarship"
+		}],
+		"DOI": "10.7554\/elife.08347",
+		"type": "journal-article",
+		"created": {
+			"date-parts": [
+				[2015, 6, 30]
+			],
+			"date-time": "2015-06-30T11:31:32Z",
+			"timestamp": 1435663892000
+		},
+		"source": "CrossRef",
+		"title": [" The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus "],
+		"prefix": "http:\/\/id.crossref.org\/prefix\/10.7554",
+		"volume": "4",
+		"author": [{
+			"affiliation": [],
+			"family": "Kraemer",
+			"given": "Moritz UG"
+		}, {
+			"affiliation": [],
+			"family": "Sinka",
+			"given": "Marianne E"
+		}, {
+			"affiliation": [],
+			"family": "Duda",
+			"given": "Kirsten A"
+		}, {
+			"affiliation": [],
+			"family": "Mylne",
+			"given": "Adrian QN"
+		}, {
+			"affiliation": [],
+			"family": "Shearer",
+			"given": "Freya M"
+		}, {
+			"affiliation": [],
+			"family": "Barker",
+			"given": "Christopher M",
+			"ORCID": "http:\/\/orcid.org\/0000-0002-7941-346X"
+		}, {
+			"affiliation": [],
+			"family": "Moore",
+			"given": "Chester G"
+		}, {
+			"affiliation": [],
+			"family": "Carvalho",
+			"given": "Roberta G"
+		}, {
+			"affiliation": [],
+			"family": "Coelho",
+			"given": "Giovanini E"
+		}, {
+			"affiliation": [],
+			"family": "Van Bortel",
+			"given": "Wim"
+		}, {
+			"affiliation": [],
+			"family": "Hendrickx",
+			"given": "Guy"
+		}, {
+			"affiliation": [],
+			"family": "Schaffner",
+			"given": "Francis",
+			"ORCID": "http:\/\/orcid.org\/0000-0001-9166-7617"
+		}, {
+			"affiliation": [],
+			"family": "Elyazar",
+			"given": "Iqbal RF"
+		}, {
+			"affiliation": [],
+			"family": "Teng",
+			"given": "Hwa-Jen"
+		}, {
+			"affiliation": [],
+			"family": "Brady",
+			"given": "Oliver J"
+		}, {
+			"affiliation": [],
+			"family": "Messina",
+			"given": "Jane P"
+		}, {
+			"affiliation": [],
+			"family": "Pigott",
+			"given": "David M",
+			"ORCID": "http:\/\/orcid.org\/0000-0002-6731-4034"
+		}, {
+			"affiliation": [],
+			"family": "Scott",
+			"given": "Thomas W"
+		}, {
+			"affiliation": [],
+			"family": "Smith",
+			"given": "David L",
+			"ORCID": "http:\/\/orcid.org\/0000-0003-4367-3849"
+		}, {
+			"affiliation": [],
+			"family": "Wint",
+			"given": "GR William"
+		}, {
+			"affiliation": [],
+			"family": "Golding",
+			"given": "Nick",
+			"ORCID": "http:\/\/orcid.org\/0000-0001-8916-5570"
+		}, {
+			"affiliation": [],
+			"family": "Hay",
+			"given": "Simon I",
+			"ORCID": "http:\/\/orcid.org\/0000-0002-0611-7272"
+		}],
+		"member": "http:\/\/id.crossref.org\/member\/4374",
+		"published-online": {
+			"date-parts": [
+				[2015, 6, 30]
+			]
+		},
+		"container-title": ["eLife"],
+		"link": [{
+			"intended-application": "text-mining",
+			"content-version": "vor",
+			"content-type": "application\/pdf",
+			"URL": "http:\/\/elifesciences.org\/lookup\/doi\/10.7554\/eLife.08347"
+		}],
+		"deposited": {
+			"date-parts": [
+				[2015, 7, 7]
+			],
+			"date-time": "2015-07-07T10:29:38Z",
+			"timestamp": 1436264978000
+		},
+		"score": 1.0,
+		"subtitle": [],
+		"issued": {
+			"date-parts": [
+				[2015, 6, 30]
+			]
+		},
+		"alternative-id": ["10.7554\/eLife.08347"],
+		"URL": "http:\/\/dx.doi.org\/10.7554\/elife.08347",
+		"archive": ["CLOCKSS"],
+		"ISSN": ["2050-084X"]
+	}
+}
