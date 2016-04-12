@@ -31,6 +31,14 @@ http://data.fundref.org/fundref/funder/10.13039/100004431
 
 Validate EML http://tools.gbif.org/dwca-validator/eml.do
 
+### Supplementary material
+
+Missing from Dryad
+
+Convert PDF to text
+```
+pdftotext -layout SI.pdf 
+```
 
 ## References
 
