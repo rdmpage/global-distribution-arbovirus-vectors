@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId=""  system="http://gbif.org" scope="system"
+         xml:lang="en">
+
+<dataset>
+  <title>Global compendium of Aedes albopictus occurrence</title>
+  
+  <metadataProvider>
+   <individualName>
+    <givenName>Roderic D. M.</givenName>
+    <surName>Page</surName>
+   </individualName>
+   <organizationName>University of Glasgow</organizationName>
+   <address/>
+   <electronicMailAddress>Roderic.Page@glasgow.ac.uk</electronicMailAddress>
+  </metadataProvider>
+  
+<creator><individualName><givenName>Moritz U. G.</givenName><surName>Kraemer</surName></individualName></creator>
+<creator><individualName><givenName>Marianne E.</givenName><surName>Sinka</surName></individualName></creator>
+<creator><individualName><givenName>Kirsten A.</givenName><surName>Duda</surName></individualName></creator>
+<creator><individualName><givenName>Adrian</givenName><surName>Mylne</surName></individualName></creator>
+<creator><individualName><givenName>Freya M.</givenName><surName>Shearer</surName></individualName></creator>
+<creator><individualName><givenName>Oliver J.</givenName><surName>Brady</surName></individualName></creator>
+<creator><individualName><givenName>Jane P.</givenName><surName>Messina</surName></individualName></creator>
+<creator><individualName><givenName>Christopher M.</givenName><surName>Barker</surName></individualName></creator>
+<creator><individualName><givenName>Chester G.</givenName><surName>Moore</surName></individualName></creator>
+<creator><individualName><givenName>Roberta G.</givenName><surName>Carvalho</surName></individualName></creator>
+<creator><individualName><givenName>Giovanini E.</givenName><surName>Coelho</surName></individualName></creator>
+<creator><individualName><givenName>Wim</givenName><surName>Van Bortel</surName></individualName></creator>
+<creator><individualName><givenName>Guy</givenName><surName>Hendrickx</surName></individualName></creator>
+<creator><individualName><givenName>Francis</givenName><surName>Schaffner</surName></individualName></creator>
+<creator><individualName><givenName>G. R. William</givenName><surName>Wint</surName></individualName></creator>
+<creator><individualName><givenName>Iqbal R. F.</givenName><surName>Elyazar</surName></individualName></creator>
+<creator><individualName><givenName>Hwa-Jen</givenName><surName>Teng</surName></individualName></creator>
+<creator><individualName><givenName>Simon I.</givenName><surName>Hay</surName></individualName></creator>
+
+<language>en</language>
+<abstract>
+  <para>Aedes aegypti and Ae. albopictus are the main vectors transmitting dengue and chikungunya viruses. Despite being pathogens of global public health importance, knowledge of their vectors’ global distribution remains patchy and sparse. A global geographic database of known occurrences of Ae. aegypti and Ae. albopictus between 1960 and 2014 was compiled. Herein we present the database, which comprises occurrence data linked to point or polygon locations, derived from peer-reviewed literature and unpublished studies including national entomological surveys and expert networks. We describe all data collection processes, as well as geo-positioning methods, database management and quality-control procedures. This is the first comprehensive global database of Ae. aegypti and Ae. albopictus occurrence, consisting of 19,930 and 22,137 geo-positioned occurrence records respectively. Both datasets can be used for a variety of mapping and spatial analyses of the vectors and, by inference, the diseases they transmit.</para>
+
+
+<para>Identifiers for funders and authors associated with this work.
+<ul>
+<li>Rhodes Scholarships	http://dx.doi.org/10.13039/501100000697</li>
+<li>National Institutes of Health	http://dx.doi.org/10.13039/100000002</li>	
+<li>National Aeronautics and Space Administration	http://dx.doi.org/10.13039/100000104</li>
+<li>Biotechnology and Biological Sciences Research Council	http://dx.doi.org/10.13039/501100000268</li>
+<li>Directorate-General for Research and Innovation	http://dx.doi.org/10.13039/100004431</li>
+<li>European Centre for Disease Prevention and Control	http://dx.doi.org/10.13039/501100000805</li>
+<li>Wellcome Trust	http://dx.doi.org/10.13039/100004440</li>
+<li>Bill and Melinda Gates Foundation	http://dx.doi.org/10.13039/100000865</li>
+<li>Studienstiftung des Deutschen Volkes	http://dx.doi.org/10.13039/501100004350</li>
+</ul>
+
+<ul>
+<li>http://orcid.org/0000-0002-7941-346X</li>
+<li>http://orcid.org/0000-0001-9166-7617</li>
+<li>http://orcid.org/0000-0002-6731-4034</li>
+<li>http://orcid.org/0000-0003-4367-3849</li>
+<li>http://orcid.org/0000-0001-8916-5570</li>
+<li>http://orcid.org/0000-0002-0611-7272</li>
+</ul>
+</para>
+  
+</abstract>
+
+<intellectualRights>
+<para>CC0 1.0</para>
+</intellectualRights>
+
+  <coverage>
+	<taxonomicCoverage>
+		<taxonomicClassification>
+		  <taxonRankName>kingdom</taxonRankName>
+		  <taxonRankValue>Animalia</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		 <taxonRankName>phylum</taxonRankName>
+		  <taxonRankValue>Arthropoda</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		<taxonRankName>class</taxonRankName>
+		  <taxonRankValue>Insecta</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		<taxonRankName>order</taxonRankName>
+		  <taxonRankValue>Diptera</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		 <taxonRankName>family</taxonRankName>
+		  <taxonRankValue>Culicidae</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		 <taxonRankName>genus</taxonRankName>
+		  <taxonRankValue>Aedes</taxonRankValue>
+		</taxonomicClassification>
+		<taxonomicClassification>
+		 <taxonRankName>species</taxonRankName>
+		  <taxonRankValue>albopictus</taxonRankValue>
+		</taxonomicClassification>
+		
+  	</taxonomicCoverage>
+  </coverage>
+</dataset>
+
+<additionalMetadata>
+  <metadata>
+    <gbif>
+    	<citation identifier="http://doi.org/10.5061/dryad.47v3c">Kraemer, Moritz U. G., Sinka, Marianne E., Duda, Kirsten A., Mylne, Adrian, Shearer, Freya M., Brady, Oliver J., … Hay, Simon I. (2015). Data from: The global compendium of Aedes aegypti and Ae. albopictus occurrence. Dryad Digital Repository. http://doi.org/10.5061/dryad.47v3c</citation>
+    
+    <citation identifier="http://doi.org/10.1038/sdata.2015.35">Kraemer, M. U. G., Sinka, M. E., Duda, K. A., Mylne, A., Shearer, F. M., Brady, O. J., … Hay, S. I. (2015, July 7). The global compendium of Aedes aegypti and Ae. albopictus occurrence. Scientific Data. Nature Publishing Group. http://doi.org/10.1038/sdata.2015.35</citation>
+    
+    <citation identifier="http://doi.org/10.7554/elife.08347">Kraemer, M. U., Sinka, M. E., Duda, K. A., Mylne, A. Q., Shearer, F. M., Barker, C. M., … Hay, S. I. (2015, June 30). The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus . eLife. eLife Sciences Organisation, Ltd. http://doi.org/10.7554/elife.08347</citation>
+    
+        <citation>Global compendium of Aedes albopictus occurrence</citation>
+    </gbif>
+  </metadata>
+</additionalMetadata>
+
+</eml:eml>
