@@ -37,11 +37,15 @@ function match($text)
 	{
 		curl_setopt($ch, CURLOPT_PROXY, $config['proxy_name'] . ':' . $config['proxy_port']);
 	}
+	
+	//print_r($headers);
 
 	curl_setopt($ch, CURLOPT_POST, TRUE);
 	curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode($post_data));
 	
 	$response = curl_exec($ch);
+	
+	//echo $response;
 	
 	$obj = json_decode($response);
 	if (count($obj->results) == 1)
@@ -79,6 +83,8 @@ function match($text)
 			$hits[] = $hit;
 		}
 	}
+	
+	return $hits;
 }			
 
 
@@ -93,17 +99,21 @@ while (!feof($file_handle))
 	$parts = explode("\t", $line);
 	
 	$id = $parts[0];
-	$ref = $parts[1];
+	$ref = trim($parts[1]);
+	
+	echo "-- $ref\n";
 	
 	$hits = match($ref);
 	
 	if (count($hits) > 0)
 	{
+		//print_r($hits);
+	
 		foreach ($hits as $hit)
 		{
 			if ($hit->match)
 			{
-				echo 'UPDATE `references` SET doi="' . $hit->doi . '";' . "\n";
+				echo 'UPDATE `references` SET doi="' . $hit->id . '" WHERE id="' . $id . '";' . "\n";
 			}
 		}
 	}	

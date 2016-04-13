@@ -19,7 +19,21 @@ while (!feof($file_handle))
 			if (preg_match('/^(\d+)/', $line, $m))
 			{
 				$ref = rtrim($line);
-				$state = 1;
+				
+				if (preg_match('/PROMED/', $line))
+				{
+					if (preg_match('/^(?<id>\d+)\.\s+(?<citation>.*)/u', $ref, $m))
+					{
+						//echo $m['id'] . "\t" . $m['citation'] . "\n";
+					
+						$sql = 'REPLACE INTO `references`(id,citation) VALUES(' . $m['id'] . ',"' . addcslashes($m['citation'], '"') . '");';
+						echo $sql . "\n"; 
+					}				
+				}
+				else
+				{
+					$state = 1;
+				}
 			}
 			break;
 			
@@ -32,7 +46,7 @@ while (!feof($file_handle))
 			else
 			{		
 				$ref .= ' ' . trim($line);
-				if (preg_match('/;$/', $line))
+				if (preg_match('/(;|[0-9]{4}\.)$/', $line))
 				{
 					// done
 				
@@ -47,6 +61,7 @@ while (!feof($file_handle))
 						$sql = 'REPLACE INTO `references`(id,citation) VALUES(' . $m['id'] . ',"' . addcslashes($m['citation'], '"') . '");';
 						echo $sql . "\n"; 
 					}
+					
 				
 					//echo "\n-------\n";
 					$state = 0;
