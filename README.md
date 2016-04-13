@@ -40,6 +40,12 @@ Convert PDF to text
 pdftotext -layout -enc “UTF-8” SI.pdf 
 ```
 
+## GBIF
+
+UUID 33614778-513a-4ec0-814d-125021cca5fe
+
+http://www.gbif.org/dataset/33614778-513a-4ec0-814d-125021cca5fe
+
 ## References
 
 Kraemer, M. U. G., Sinka, M. E., Duda, K. A., Mylne, A., Shearer, F. M., Brady, O. J., … Hay, S. I. (2015, July 7). The global compendium of Aedes aegypti and Ae. albopictus occurrence. Scientific Data. Nature Publishing Group. http://doi.org/10.1038/sdata.2015.35
