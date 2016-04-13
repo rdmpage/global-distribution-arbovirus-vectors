@@ -41,7 +41,7 @@
 <abstract>
   <para>Aedes aegypti and Ae. albopictus are the main vectors transmitting dengue and chikungunya viruses. Despite being pathogens of global public health importance, knowledge of their vectors’ global distribution remains patchy and sparse. A global geographic database of known occurrences of Ae. aegypti and Ae. albopictus between 1960 and 2014 was compiled. Herein we present the database, which comprises occurrence data linked to point or polygon locations, derived from peer-reviewed literature and unpublished studies including national entomological surveys and expert networks. We describe all data collection processes, as well as geo-positioning methods, database management and quality-control procedures. This is the first comprehensive global database of Ae. aegypti and Ae. albopictus occurrence, consisting of 19,930 and 22,137 geo-positioned occurrence records respectively. Both datasets can be used for a variety of mapping and spatial analyses of the vectors and, by inference, the diseases they transmit.</para>
 
-
+<!--
 <para>Identifiers for funders and authors associated with this work.
 <ul>
 <li>Rhodes Scholarships	http://dx.doi.org/10.13039/501100000697</li>
@@ -64,6 +64,7 @@
 <li>http://orcid.org/0000-0002-0611-7272</li>
 </ul>
 </para>
+-->
   
 </abstract>
 
@@ -99,7 +100,7 @@
 		</taxonomicClassification>
 		<taxonomicClassification>
 		 <taxonRankName>species</taxonRankName>
-		  <taxonRankValue>albopictus</taxonRankValue>
+		  <taxonRankValue>Aedes albopictus</taxonRankValue>
 		</taxonomicClassification>
 		
   	</taxonomicCoverage>
