@@ -3,12 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://api.gbif.org/v1/dataset/d9a4eedb-e985-4456-ad46-3df8472e00e8/endpoint</string>
+	<string>http://api.gbif.org/v1/dataset/33614778-513a-4ec0-814d-125021cca5fe/crawl</string>
 	<key>bodyString</key>
-	<string>{
-  "type":"DWC_ARCHIVE",
-  "url":"https://dl.dropboxusercontent.com/u/639486/dwca.zip"
-}</string>
+	<string></string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
