@@ -110,13 +110,17 @@
 <additionalMetadata>
   <metadata>
     <gbif>
+    <hierarchyLevel>dataset</hierarchyLevel>
+    <citation>Global compendium of Aedes albopictus occurrence</citation>
+    
+    <bibliography>
     	<citation identifier="http://doi.org/10.5061/dryad.47v3c">Kraemer, Moritz U. G., Sinka, Marianne E., Duda, Kirsten A., Mylne, Adrian, Shearer, Freya M., Brady, Oliver J., … Hay, Simon I. (2015). Data from: The global compendium of Aedes aegypti and Ae. albopictus occurrence. Dryad Digital Repository. http://doi.org/10.5061/dryad.47v3c</citation>
     
     <citation identifier="http://doi.org/10.1038/sdata.2015.35">Kraemer, M. U. G., Sinka, M. E., Duda, K. A., Mylne, A., Shearer, F. M., Brady, O. J., … Hay, S. I. (2015, July 7). The global compendium of Aedes aegypti and Ae. albopictus occurrence. Scientific Data. Nature Publishing Group. http://doi.org/10.1038/sdata.2015.35</citation>
     
     <citation identifier="http://doi.org/10.7554/elife.08347">Kraemer, M. U., Sinka, M. E., Duda, K. A., Mylne, A. Q., Shearer, F. M., Barker, C. M., … Hay, S. I. (2015, June 30). The global distribution of the arbovirus vectors Aedes aegypti and Ae. albopictus . eLife. eLife Sciences Organisation, Ltd. http://doi.org/10.7554/elife.08347</citation>
+    </bibliography>
     
-        <citation>Global compendium of Aedes albopictus occurrence</citation>
     </gbif>
   </metadata>
 </additionalMetadata>
